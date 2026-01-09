@@ -1,2 +1,6 @@
 飞书文档迁移/01-工作记录/账号信息
 01-技术/飞书文档迁移
+
+# Gitleaks敏感信息检测报告
+.gitleaks-report.json
+.gitleaks-report.csv
