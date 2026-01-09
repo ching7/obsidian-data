@@ -1,1 +1,7 @@
-{}
+{
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "md"
+  ]
+}

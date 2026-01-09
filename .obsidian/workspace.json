@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "acc3918ff0e1e425",
+        "id": "4192c558cbf49e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "4e94015c8d28dc22",
+            "id": "c0ab5fa1c299f9d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/日报.md",
+                "file": "02-工作/工作周报/第2周20260105-0109.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "日报"
+              "title": "第2周20260105-0109"
             }
           }
         ],
@@ -155,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/日报.md",
+                "file": "02-工作/工作周报/第2周20260105-0109.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "日报 的大纲"
+              "title": "第2周20260105-0109 的大纲"
             }
           },
           {
@@ -180,7 +190,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "template/日报.md"
+                "file": "02-工作/工作周报/第2周20260105-0109.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -196,10 +206,10 @@
   "left-ribbon": {
     "hiddenItems": {
       "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
@@ -207,22 +217,27 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4e94015c8d28dc22",
+  "active": "c0ab5fa1c299f9d7",
   "lastOpenFiles": [
     "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
-    "template/日报.md",
+    "02-工作/工作周报/第2周20260105-0109.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "template/日报模板.md",
+    "02-工作/工作周报/第2周20260105-0109/未命名.md",
+    "02-工作/工作周报/第2周20260105-0109",
+    "未命名.md",
     "template",
     "未命名.base",
     "2026-01-09.md",
     "02-工作/汇报/25年度自评.md",
-    "02-工作/工作日报",
+    "02-工作/工作周报",
     "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
     "02-工作/汇报/26年度汇报",
     "02-工作/汇报",
     "00-生活",
     "01-个人",
     "02-工作",
-    "未命名.canvas",
     "欢迎.md"
   ]
 }

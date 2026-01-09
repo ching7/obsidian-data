@@ -1,0 +1,32 @@
+img, .HyperMD-header {
+  display: block;
+  line-height: 130% !important;
+  padding: 0.3rem 0 1rem 0 !important;
+}
+.cm-line:not(.HyperMD-header) {
+  display: block !important;
+  line-height: 1.3rem;
+  padding: 0.1rem 0 0.9rem 0 !important;
+}
+.cm-line:not(.HyperMD-header):has(> br)::before {
+  content: '⮐';
+  font-size: 0.3rem;
+  margin-left: -0.6rem;
+  color: silver;
+}
+.cm-line:not(.HyperMD-header):has(> br) {
+  display: block !important;
+  position: relative !important;
+  height: 0.4rem;
+  padding: 0 0 1.2rem 0 !important;
+  top: -0.8rem;
+}
+.cm-s-obsidian .HyperMD-list-line {
+  text-indent: 0 !important;
+}
+.HyperMD-list-line > .cm-formatting-list-ul {
+  margin-left: -0.72em !important;
+}
+.HyperMD-list-line > .cm-formatting-list-ol {
+  margin-left: 0.2em !important;
+}
