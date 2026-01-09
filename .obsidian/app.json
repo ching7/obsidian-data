@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "promptDelete": false
 }
