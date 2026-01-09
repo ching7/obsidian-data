@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 244.5
   },
   "right": {
     "id": "62184a15e2b388fd",
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02-工作/工作周报/第2周20260105-0109/工作日报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "工作日报 的反向链接列表"
             }
           },
           {
@@ -124,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02-工作/工作周报/第2周20260105-0109/工作日报.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "工作日报 的出链列表"
             }
           },
           {
@@ -166,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-09 16.15.08.excalidraw.md",
+                "file": "02-工作/工作周报/第2周20260105-0109/工作日报.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-01-09 16.15.08.excalidraw 的大纲"
+              "title": "工作日报 的大纲"
             }
           },
           {
@@ -197,12 +199,11 @@
               "title": "脚注"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,10 +222,17 @@
   },
   "active": "62c0c3829fd4cf97",
   "lastOpenFiles": [
-    "02-工作/工作周报/第2周20260105-0109/未命名.canvas",
-    "Excalidraw/Drawing 2026-01-09 16.15.08.excalidraw.md",
-    "Excalidraw",
+    "02-工作/2026-01-09.md",
+    "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
     "02-工作/工作周报/第2周20260105-0109/工作日报.md",
+    "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
+    "Excalidraw/Drawing 2026-01-09 16.25.35.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-09 16.25.34.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-09 16.16.20.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2026-01-09 16.16.03.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-09 16.15.08.excalidraw.md",
+    "02-工作/工作周报/第2周20260105-0109/未命名.canvas",
     "02-工作/工作周报/第2周20260105-0109",
     "SECURITY-SETUP.md",
     "飞书文档迁移/知识整理/migration_log.json",
@@ -252,12 +260,6 @@
     "飞书文档迁移/04-模板规范/邮件/支撑前信息提供.md",
     "飞书文档迁移/04-模板规范/邮件/工作周报-20240527-20240531.md",
     "飞书文档迁移/04-模板规范/架构设计/架构设计-逻辑架构.md",
-    "飞书文档迁移/04-模板规范/架构设计/架构设计-架构总览-物理架构详细.md",
-    "飞书文档迁移/04-模板规范/思维轮.md",
-    "飞书文档迁移/04-模板规范/周报/周会模板.md",
-    "飞书文档迁移/03-知识记录/06-自建大模型/02-自建mcp服务/使用nacos自建mcp服务.md",
-    "飞书文档迁移/03-知识记录/06-自建大模型/01-智能体/01-openManus.md",
-    "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
     "未命名 1.canvas"
   ]
 }
