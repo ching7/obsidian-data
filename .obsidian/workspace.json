@@ -45,10 +45,24 @@
             "id": "3c3423b402af5132",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "飞书文档迁移/03-知识记录/04-软件开发/06-服务器知识/docker安装mysql.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "docker安装mysql"
             }
           }
         ]
@@ -124,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "飞书文档迁移/03-知识记录/04-软件开发/06-服务器知识/docker安装mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "docker安装mysql 的反向链接列表"
             }
           },
           {
@@ -142,11 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "飞书文档迁移/03-知识记录/04-软件开发/06-服务器知识/docker安装mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "docker安装mysql 的出链列表"
             }
           },
           {
@@ -184,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "飞书文档迁移/05-个人生活/01-家庭/20240413家庭教育沟通.md",
+                "file": "飞书文档迁移/03-知识记录/04-软件开发/06-服务器知识/docker安装mysql.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20240413家庭教育沟通 的大纲"
+              "title": "docker安装mysql 的大纲"
             }
           },
           {
@@ -236,8 +252,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "62c0c3829fd4cf97",
+  "active": "3c3423b402af5132",
   "lastOpenFiles": [
+    "SECURITY-SETUP.md",
+    "test_secret.txt",
+    "飞书文档迁移/05-个人生活/01-家庭/20240413家庭教育沟通.md",
     "飞书文档迁移/知识整理/云原生.md",
     "飞书文档迁移/知识整理/migration_log.json",
     "飞书文档迁移/知识整理",
@@ -259,7 +278,6 @@
     "飞书文档迁移/03-知识记录/06-自建大模型/01-智能体/01-openManus.md",
     "飞书文档迁移/03-知识记录/06-自建大模型/大模型play line.md",
     "飞书文档迁移/03-知识记录/06-自建大模型/LLM 技术调研.md",
-    "飞书文档迁移/03-知识记录/06-自建大模型/02-自建mcp服务",
     "飞书文档迁移/03-知识记录/05-自建小模型/01-语言模型基础/11 梯度.md",
     "飞书文档迁移/03-知识记录/05-自建小模型/01-语言模型基础/10 导数与偏导数.md",
     "飞书文档迁移/03-知识记录/05-自建小模型/01-语言模型基础/09 损失函数.md",
@@ -272,8 +290,6 @@
     "飞书文档迁移/03-知识记录/05-自建小模型/01-语言模型基础/02-1 词向量（Word Embedding）.md",
     "飞书文档迁移/03-知识记录/05-自建小模型/01-语言模型基础/02 Tokenization（分词）和 Word Embedding（词嵌入）.md",
     "飞书文档迁移/03-知识记录/05-自建小模型/01-语言模型基础/01 N-Gram模型.md",
-    "飞书文档迁移/03-知识记录/05-自建小模型/02-从RNN到LSTM/01- RNN的基本原理.md",
-    "飞书文档迁移/03-知识记录/05-自建小模型/小型大模型（LLM）整体方案20250319.md",
     "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
     "未命名.canvas",
     "未命名 1.canvas"
