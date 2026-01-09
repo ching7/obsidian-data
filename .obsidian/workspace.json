@@ -4,42 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "4192c558cbf49e1b",
-        "type": "tabs",
-        "dimension": 45.60702875399361,
-        "children": [
-          {
-            "id": "172f46672fb12106",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-工作/工作周报/第2周20260105-0109/工作日报.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "工作日报"
-            }
-          }
-        ]
-      },
-      {
         "id": "a58b096b385ca63b",
         "type": "tabs",
-        "dimension": 54.3929712460064,
         "children": [
           {
             "id": "532238b878f2dd6d",
@@ -253,7 +219,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "532238b878f2dd6d",
+  "active": "84d78aeb2af95562",
   "lastOpenFiles": [
     "02-工作/工作周报/第2周20260105-0109/工作日报.md",
     "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",

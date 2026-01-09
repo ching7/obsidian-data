@@ -6,7 +6,7 @@
   "rightToLeft": false,
   "autoPairMarkdown": false,
   "autoPairBrackets": false,
-  "showIndentGuide": true,
+  "showIndentGuide": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "showUnsupportedFiles": true
