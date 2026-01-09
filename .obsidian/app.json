@@ -3,5 +3,7 @@
   "newLinkFormat": "absolute",
   "showLineNumber": true,
   "promptDelete": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false
 }
