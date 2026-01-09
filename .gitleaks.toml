@@ -1,0 +1,152 @@
+title = "自定义Gitleaks配置 - 敏感信息检测"
+
+# 通用密码模式
+[[rules]]
+id = "generic-password"
+description = "检测密码字段"
+regex = '''(?i)(password|passwd|pwd|pass)\s*[:=]\s*['""]?[\w\-@#$%^&*()+=!]{6,}['""]?'''
+tags = ["password", "generic"]
+
+# API密钥模式
+[[rules]]
+id = "generic-api-key"
+description = "检测API密钥"
+regex = '''(?i)(api[_-]?key|apikey|api_token)\s*[:=]\s*['""]?[\w\-]{20,}['""]?'''
+tags = ["api-key", "generic"]
+
+# 密钥和令牌
+[[rules]]
+id = "generic-secret"
+description = "检测密钥"
+regex = '''(?i)(secret[_-]?key|secret_token|auth[_-]?token)\s*[:=]\s*['""]?[\w\-]{20,}['""]?'''
+tags = ["secret", "generic"]
+
+# GitHub Token
+[[rules]]
+id = "github-pat"
+description = "GitHub个人访问令牌"
+regex = '''ghp_[0-9a-zA-Z]{36}'''
+tags = ["github", "token"]
+
+[[rules]]
+id = "github-oauth"
+description = "GitHub OAuth令牌"
+regex = '''gho_[0-9a-zA-Z]{36}'''
+tags = ["github", "token"]
+
+[[rules]]
+id = "github-app"
+description = "GitHub App令牌"
+regex = '''(ghu|ghs)_[0-9a-zA-Z]{36}'''
+tags = ["github", "token"]
+
+# AWS密钥
+[[rules]]
+id = "aws-access-key"
+description = "AWS访问密钥ID"
+regex = '''(A3T[A-Z0-9]|AKIA|AGPA|AIDA|AROA|AIPA|ANPA|ANVA|ASIA)[A-Z0-9]{16}'''
+tags = ["aws", "access-key"]
+
+[[rules]]
+id = "aws-secret-key"
+description = "AWS秘密访问密钥"
+regex = '''(?i)aws[_-]?secret[_-]?access[_-]?key['""]?\s*[:=]\s*['""]?[A-Za-z0-9/+=]{40}['""]?'''
+tags = ["aws", "secret-key"]
+
+# 私钥
+[[rules]]
+id = "private-key"
+description = "私钥"
+regex = '''-----BEGIN (RSA |EC |DSA |OPENSSH )?PRIVATE KEY-----'''
+tags = ["key", "private"]
+
+# JWT Token
+[[rules]]
+id = "jwt-token"
+description = "JWT令牌"
+regex = '''eyJ[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}'''
+tags = ["jwt", "token"]
+
+# 数据库连接字符串
+[[rules]]
+id = "connection-string"
+description = "数据库连接字符串"
+regex = '''(?i)(jdbc|mongodb|mysql|postgresql|redis)://[^:\s]+:[^@\s]+@[^:\s]+:[0-9]+'''
+tags = ["database", "connection"]
+
+# Docker登录命令
+[[rules]]
+id = "docker-login"
+description = "Docker登录命令"
+regex = '''docker\s+login.*-u\s+\S+\s+-p\s+\S+'''
+tags = ["docker", "credentials"]
+
+# 通用令牌（16-64位字母数字字符）
+[[rules]]
+id = "generic-token"
+description = "通用令牌"
+regex = '''(?i)(token|bearer)\s*[:=]\s*['""]?[a-zA-Z0-9_\-]{32,}['""]?'''
+tags = ["token", "generic"]
+
+# 阿里云AccessKey
+[[rules]]
+id = "aliyun-access-key"
+description = "阿里云AccessKey"
+regex = '''(?i)(aliyun|alicloud)[_-]?(access[_-]?key[_-]?id|access[_-]?key)\s*[:=]\s*['""]?[a-zA-Z0-9]{16,}['""]?'''
+tags = ["aliyun", "access-key"]
+
+# 腾讯云SecretId
+[[rules]]
+id = "tencent-secret-id"
+description = "腾讯云SecretId"
+regex = '''(?i)AKID[a-zA-Z0-9]{32,}'''
+tags = ["tencent", "secret"]
+
+# JFrog Token
+[[rules]]
+id = "jfrog-token"
+description = "JFrog平台令牌"
+regex = '''(?i)(jfrog|artifactory)[_-]?(token|key|password)\s*[:=]\s*['""]?[a-zA-Z0-9_\-]{20,}['""]?'''
+tags = ["jfrog", "token"]
+
+# 通用密钥（检测变量名包含key/secret/token且值较长）
+[[rules]]
+id = "suspicious-assignment"
+description = "可疑的密钥赋值"
+regex = '''(?i)(key|secret|token|credential|auth)\w*\s*[:=]\s*['""][^'"\s]{20,}['""]'''
+tags = ["generic", "suspicious"]
+
+# 邮箱密码组合
+[[rules]]
+id = "email-password-combo"
+description = "邮箱密码组合"
+regex = '''[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\s*[:/]\s*[\w@#$%^&*()+=!-]{6,}'''
+tags = ["email", "password"]
+
+# Slack Token
+[[rules]]
+id = "slack-token"
+description = "Slack令牌"
+regex = '''xox[baprs]-[0-9]{10,13}-[0-9]{10,13}-[a-zA-Z0-9]{24,}'''
+tags = ["slack", "token"]
+
+# 忽略规则
+[allowlist]
+description = "全局忽略规则"
+paths = [
+  '''^\.git/''',
+  '''^\.gitleaks\.toml$''',
+]
+
+# 停止词（不会触发检测的特定字符串）
+stopwords = [
+  "example",
+  "test",
+  "demo",
+  "sample",
+  "placeholder",
+  "your_password_here",
+  "change_me",
+  "xxx",
+  "****",
+]
