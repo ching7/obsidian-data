@@ -34,6 +34,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "a58b096b385ca63b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532238b878f2dd6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025年度陈亚男述职汇报"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-工作/工作周报/第2周20260105-0109/工作日报.md",
+                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "工作日报 的反向链接列表"
+              "title": "2025年度陈亚男述职汇报 的反向链接列表"
             }
           },
           {
@@ -125,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-工作/工作周报/第2周20260105-0109/工作日报.md",
+                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "工作日报 的出链列表"
+              "title": "2025年度陈亚男述职汇报 的出链列表"
             }
           },
           {
@@ -168,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第2周20260105-0109/工作日报.md",
+                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作日报 的大纲"
+              "title": "2025年度陈亚男述职汇报 的大纲"
             }
           },
           {
@@ -199,11 +229,12 @@
               "title": "脚注"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,11 +251,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "62c0c3829fd4cf97",
+  "active": "532238b878f2dd6d",
   "lastOpenFiles": [
+    "02-工作/工作周报/第2周20260105-0109/工作日报.md",
     "02-工作/2026-01-09.md",
     "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
-    "02-工作/工作周报/第2周20260105-0109/工作日报.md",
     "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
     "Excalidraw/Drawing 2026-01-09 16.25.35.excalidraw.md",
     "Excalidraw/Drawing 2026-01-09 16.25.34.excalidraw.md",
