@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a26de4640d1a9d63",
+        "id": "2f854fe532678a98",
         "type": "tabs",
         "children": [
           {
-            "id": "7c5bf7dbc7315c10",
+            "id": "3280cad9f46cd9d1",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025年度陈亚男述职汇报"
+              "title": "新标签页"
             }
           }
         ]
@@ -87,8 +71,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "954344b936eef90a",
@@ -101,13 +84,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025年度陈亚男述职汇报 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -130,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025年度陈亚男述职汇报 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -149,12 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025年度陈亚男述职汇报 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -229,12 +209,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7c5bf7dbc7315c10",
+  "active": "62c0c3829fd4cf97",
   "lastOpenFiles": [
+    "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
     "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
     "02-工作/汇报/26年度汇报/未命名.base",
     "02-工作/汇报/26年度汇报/未命名.md",
-    "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
     "02-工作/工作周报/第2周20260105-0109/工作日报.md",
     "02-工作/2026-01-09.md",
     "Excalidraw/Drawing 2026-01-09 16.25.35.excalidraw.md",
