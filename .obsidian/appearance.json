@@ -3,5 +3,6 @@
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "md"
-  ]
+  ],
+  "cssTheme": "Minimal"
 }

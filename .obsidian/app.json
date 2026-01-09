@@ -1,9 +1,13 @@
 {
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "showLineNumber": true,
+  "showLineNumber": false,
   "promptDelete": false,
   "rightToLeft": false,
   "autoPairMarkdown": false,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "showIndentGuide": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showUnsupportedFiles": true
 }

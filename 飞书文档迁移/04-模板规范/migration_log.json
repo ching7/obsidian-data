@@ -1,0 +1,31 @@
+{
+  "migration_time": "2026-01-09T15:03:23.708384",
+  "total": 10,
+  "success": 7,
+  "failed": 3,
+  "config": {
+    "folder_token": "G9ljfeGWYljI3DdCot6cgKOqnPf",
+    "vault_path": "/Users/chenyanan/Downloads/04-文档/10-个人相关/00-personKnowledge/obsidian-data",
+    "target_folder": "飞书文档迁移/04-模板规范"
+  },
+  "failed_documents": [
+    {
+      "name": "得到 CEO 脱不花：为什么周报应该是上级写给下级的？",
+      "path": "周报",
+      "token": "doccn8m8oNq97l3hRUyC8TYUWmZ",
+      "type": "doc"
+    },
+    {
+      "name": "[范例] 给下属写周报",
+      "path": "周报",
+      "token": "doccnTQQxgm94y80kf03Pt8iExe",
+      "type": "doc"
+    },
+    {
+      "name": "[框架] 给下属写周报",
+      "path": "周报",
+      "token": "doccnJB69Q5AL28bOJ5hUEDGiqW",
+      "type": "doc"
+    }
+  ]
+}

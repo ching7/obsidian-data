@@ -1,0 +1,19 @@
+{
+  "migration_time": "2026-01-09T15:19:26.835368",
+  "total": 2,
+  "success": 1,
+  "failed": 1,
+  "config": {
+    "folder_token": "HahFwjruti5SJ2kuwU8clrWwnke",
+    "vault_path": "/Users/chenyanan/Downloads/04-文档/10-个人相关/00-personKnowledge/obsidian-data",
+    "target_folder": "飞书文档迁移/01-工作记录/个人管理"
+  },
+  "failed_documents": [
+    {
+      "name": "2025计划OKR",
+      "path": "",
+      "token": "HoSRbNS6jaWYuysjJyNcbnVentc",
+      "type": "bitable"
+    }
+  ]
+}

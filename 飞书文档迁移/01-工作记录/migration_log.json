@@ -1,0 +1,19 @@
+{
+  "migration_time": "2026-01-09T15:08:59.851829",
+  "total": 287,
+  "success": 286,
+  "failed": 1,
+  "config": {
+    "folder_token": "SizoflFoUlni8cd6Jfkcm6Gmnqd",
+    "vault_path": "/Users/chenyanan/Downloads/04-文档/10-个人相关/00-personKnowledge/obsidian-data",
+    "target_folder": "飞书文档迁移/01-工作记录"
+  },
+  "failed_documents": [
+    {
+      "name": "20250317可观测演示流程",
+      "path": "03-项目文件/02-服务机器人平台/02-可观测与JDK降级",
+      "token": "UCQ3sYIAohXZQitEgticfZ9MnLh",
+      "type": "sheet"
+    }
+  ]
+}

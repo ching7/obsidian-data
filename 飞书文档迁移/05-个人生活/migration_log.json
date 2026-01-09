@@ -1,0 +1,12 @@
+{
+  "migration_time": "2026-01-09T14:59:44.410321",
+  "total": 15,
+  "success": 15,
+  "failed": 0,
+  "config": {
+    "folder_token": "OxKIf59lTlurLWdx6jRcYq96nrd",
+    "vault_path": "/Users/chenyanan/Downloads/04-文档/10-个人相关/00-personKnowledge/obsidian-data",
+    "target_folder": "飞书文档迁移/05-个人生活"
+  },
+  "failed_documents": []
+}
