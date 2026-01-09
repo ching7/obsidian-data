@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第2周20260105-0109.md",
+                "file": "02-工作/工作周报/第2周20260105-0109/工作日报.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,7 +30,7 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "第2周20260105-0109"
+              "title": "工作日报"
             }
           }
         ]
@@ -166,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Drawing 2026-01-09 16.15.08.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Drawing 2026-01-09 16.15.08.excalidraw 的大纲"
             }
           },
           {
@@ -214,11 +215,17 @@
       "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "62c0c3829fd4cf97",
   "lastOpenFiles": [
+    "02-工作/工作周报/第2周20260105-0109/未命名.canvas",
+    "Excalidraw/Drawing 2026-01-09 16.15.08.excalidraw.md",
+    "Excalidraw",
+    "02-工作/工作周报/第2周20260105-0109/工作日报.md",
+    "02-工作/工作周报/第2周20260105-0109",
     "SECURITY-SETUP.md",
     "飞书文档迁移/知识整理/migration_log.json",
     "飞书文档迁移/知识整理/云原生.md",
@@ -238,8 +245,6 @@
     "飞书文档迁移/05-个人生活/03-情绪决策/003-情绪轮.md",
     "飞书文档迁移/05-个人生活/03-情绪决策",
     "飞书文档迁移/05-个人生活/02-个人复盘/2024个人复盘.xlsx",
-    "飞书文档迁移/05-个人生活/02-个人复盘",
-    "飞书文档迁移/05-个人生活/01-家庭/20241102结婚统计.xlsx",
     "飞书文档迁移/05-个人生活/01-家庭/20240413家庭教育沟通.md",
     "飞书文档迁移/05-个人生活/00-计划目标/03-旅行计划/旅行计划.md",
     "飞书文档迁移/05-个人生活/00-计划目标/OKR实现详细路径.md",
@@ -252,11 +257,7 @@
     "飞书文档迁移/04-模板规范/周报/周会模板.md",
     "飞书文档迁移/03-知识记录/06-自建大模型/02-自建mcp服务/使用nacos自建mcp服务.md",
     "飞书文档迁移/03-知识记录/06-自建大模型/01-智能体/01-openManus.md",
-    "飞书文档迁移/03-知识记录/06-自建大模型/大模型play line.md",
-    "飞书文档迁移/03-知识记录/06-自建大模型/LLM 技术调研.md",
-    "飞书文档迁移/03-知识记录/05-自建小模型/02-从RNN到LSTM/01- RNN的基本原理.md",
     "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
-    "未命名.canvas",
     "未命名 1.canvas"
   ]
 }
