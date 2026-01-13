@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
-                "mode": "preview",
+                "file": "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "智算和智能体信息盘点2026-01-13"
+              "title": "工作日报2026-01-13"
             }
           }
         ],
@@ -125,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "智算和智能体信息盘点2026-01-13 的大纲"
+              "title": "工作日报2026-01-13 的大纲"
             }
           }
         ]
@@ -149,6 +149,43 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2afd4889b7e437ad",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "工作日报2026-01-13 的关系图"
+            }
+          },
+          {
             "id": "61eec06dfcb9a3dd",
             "type": "leaf",
             "state": {
@@ -164,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "智算和智能体信息盘点2026-01-13 的反向链接列表"
+              "title": "工作日报2026-01-13 的反向链接列表"
             }
           },
           {
@@ -183,12 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "智算和智能体信息盘点2026-01-13 的出链列表"
+              "title": "工作日报2026-01-13 的出链列表"
             }
           },
           {
@@ -226,7 +263,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md"
+                "file": "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -236,7 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 514.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,10 +290,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "106400718f437009",
+  "active": "2afd4889b7e437ad",
   "lastOpenFiles": [
-    "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
     "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
+    "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
     "02-工作/2026-01-13.md",
     "02-工作/工作周报/第2周20260105-0109/工作日报.md",
     "template/日报模板.md",
