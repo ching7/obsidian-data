@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体.md",
-                "mode": "source",
+                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "智算和智能体"
+              "title": "智算和智能体信息盘点2026-01-13"
             }
           }
         ],
@@ -125,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "智算和智能体 的大纲"
+              "title": "智算和智能体信息盘点2026-01-13 的大纲"
             }
           }
         ]
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "智算和智能体 的反向链接列表"
+              "title": "智算和智能体信息盘点2026-01-13 的反向链接列表"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "智算和智能体 的出链列表"
+              "title": "智算和智能体信息盘点2026-01-13 的出链列表"
             }
           },
           {
@@ -226,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体.md"
+                "file": "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -256,7 +256,7 @@
   "active": "106400718f437009",
   "lastOpenFiles": [
     "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
-    "02-工作/工作周报/第3周20260112-0116/智算和智能体.md",
+    "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
     "02-工作/2026-01-13.md",
     "02-工作/工作周报/第2周20260105-0109/工作日报.md",
     "template/日报模板.md",
