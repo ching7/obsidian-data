@@ -156,7 +156,7 @@
               "state": {
                 "file": "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -178,7 +178,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
@@ -269,7 +269,8 @@
               "title": "脚注"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -290,7 +291,46 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2afd4889b7e437ad",
+  "floating": {
+    "id": "18bcc423dcf9d44f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ea5ddb8ef30c108e",
+        "type": "window",
+        "children": [
+          {
+            "id": "74a32c5a38b97924",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f94e3571a65792d3",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://publish.obsidian.md/tasks/Queries/Global+Query",
+                    "title": "Global Query - Tasks User Guide - Obsidian Publish",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Global Query - Tasks User Guide - Obsidian Publish"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 84,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "106400718f437009",
   "lastOpenFiles": [
     "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
     "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
