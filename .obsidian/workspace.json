@@ -10,6 +10,7 @@
           {
             "id": "3280cad9f46cd9d1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -27,6 +28,7 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2026-01-13"
             }
@@ -226,7 +228,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "61eec06dfcb9a3dd",
+  "active": "3280cad9f46cd9d1",
   "lastOpenFiles": [
     "02-工作/工作周报/第2周20260105-0109/工作日报.md",
     "02-工作/工作周报/第3周20260112-0116/2026-01-13.md",
