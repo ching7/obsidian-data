@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
+                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,25 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "工作日报2026-01-13"
-            }
-          },
-          {
-            "id": "52e1ede53c326838",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://yf2ljykclb.xfchat.iflytek.com/docx/doxrzffuZc0wAvZuKvVH2sLkeNb",
-                "title": "data:text/plain,",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "2025年度陈亚男述职汇报"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,12 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2025年度陈亚男述职汇报 的大纲"
             }
           }
         ]
@@ -167,6 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +182,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "2025年度陈亚男述职汇报 的关系图"
             }
           },
           {
@@ -213,6 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2025年度陈亚男述职汇报 的反向链接列表"
             }
           },
           {
@@ -231,11 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "2025年度陈亚男述职汇报 的出链列表"
             }
           },
           {
@@ -272,7 +262,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md"
+              },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -337,7 +329,7 @@
       }
     ]
   },
-  "active": "52e1ede53c326838",
+  "active": "106400718f437009",
   "lastOpenFiles": [
     "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
     "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
