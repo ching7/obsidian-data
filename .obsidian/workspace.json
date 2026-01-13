@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/2026-01-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025年度陈亚男述职汇报"
+              "title": "2026-01-13"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 30.869565217391305,
+        "dimension": 58.369565217391305,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -90,7 +90,7 @@
       {
         "id": "954344b936eef90a",
         "type": "tabs",
-        "dimension": 69.1304347826087,
+        "dimension": 41.630434782608695,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -98,23 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/2026-01-13.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025年度陈亚男述职汇报 的大纲"
-            }
-          },
-          {
-            "id": "61eec06dfcb9a3dd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "2026-01-13 的大纲"
             }
           }
         ]
@@ -132,12 +122,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "61eec06dfcb9a3dd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "8a70ba8c43943ad9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/2026-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025年度陈亚男述职汇报 的反向链接列表"
+              "title": "2026-01-13 的反向链接列表"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/2026-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025年度陈亚男述职汇报 的出链列表"
+              "title": "2026-01-13 的出链列表"
             }
           },
           {
@@ -199,14 +199,13 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md"
+                "file": "02-工作/工作周报/第3周20260112-0116/2026-01-13.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,13 +226,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "84d78aeb2af95562",
+  "active": "61eec06dfcb9a3dd",
   "lastOpenFiles": [
+    "02-工作/工作周报/第2周20260105-0109/工作日报.md",
+    "02-工作/工作周报/第3周20260112-0116/2026-01-13.md",
+    "template/日报模板.md",
+    "02-工作/工作周报/第3周20260112-0116",
     "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
     "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
     "02-工作/汇报/26年度汇报/未命名.base",
     "02-工作/汇报/26年度汇报/未命名.md",
-    "02-工作/工作周报/第2周20260105-0109/工作日报.md",
     "02-工作/2026-01-09.md",
     "Excalidraw/Drawing 2026-01-09 16.25.35.excalidraw.md",
     "Excalidraw/Drawing 2026-01-09 16.25.34.excalidraw.md",
@@ -260,12 +262,9 @@
     "飞书文档迁移/05-个人生活/03-情绪决策/情绪梳理.md",
     "飞书文档迁移/05-个人生活/03-情绪决策/20240207工作相关决策.md",
     "飞书文档迁移/05-个人生活/03-情绪决策/003-情绪轮.md",
-    "飞书文档迁移/05-个人生活/03-情绪决策",
     "飞书文档迁移/05-个人生活/01-家庭/20240413家庭教育沟通.md",
     "飞书文档迁移/05-个人生活/00-计划目标/03-旅行计划/旅行计划.md",
     "飞书文档迁移/05-个人生活/00-计划目标/OKR实现详细路径.md",
-    "飞书文档迁移/05-个人生活/00-计划目标/准则！！.md",
-    "飞书文档迁移/04-模板规范/邮件/支撑前信息提供.md",
     "未命名 1.canvas"
   ]
 }
