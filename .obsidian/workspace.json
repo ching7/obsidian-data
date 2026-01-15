@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f854fe532678a98",
+        "id": "0f675def6b7b9236",
         "type": "tabs",
         "children": [
           {
-            "id": "3280cad9f46cd9d1",
+            "id": "c8d7da58eb2ed4c0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,49 +27,11 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "工作日报2026-01-13"
-            }
-          },
-          {
-            "id": "106400718f437009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025年度陈亚男述职汇报"
-            }
-          },
-          {
-            "id": "6cace8f32f62f519",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
+              "title": "工作日报2026-01-15"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
+                "file": "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-15.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025年度陈亚男述职汇报 的大纲"
+              "title": "工作日报2026-01-15 的大纲"
             }
           }
         ]
@@ -303,54 +264,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "floating": {
-    "id": "18bcc423dcf9d44f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ea5ddb8ef30c108e",
-        "type": "window",
-        "children": [
-          {
-            "id": "74a32c5a38b97924",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f94e3571a65792d3",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/tasks/Queries/Global+Query",
-                    "title": "data:text/plain,",
-                    "mode": "blank"
-                  },
-                  "icon": "globe-2",
-                  "title": "data:text/plain,"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 80,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6cace8f32f62f519",
+  "active": "c8d7da58eb2ed4c0",
   "lastOpenFiles": [
-    "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
-    "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
+    "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-15.md",
     "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-13.md",
+    "02-工作/工作周报/第3周20260112-0116/未命名",
     "02-工作/工作周报/第3周20260112-0116/智算和智能体信息盘点2026-01-13.md",
-    "02-工作/2026-01-13.md",
     "02-工作/工作周报/第2周20260105-0109/工作日报.md",
     "template/日报模板.md",
+    "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
+    "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
+    "02-工作/2026-01-13.md",
     "02-工作/工作周报/第3周20260112-0116",
     "02-工作/汇报/26年度汇报/未命名.base",
     "02-工作/汇报/26年度汇报/未命名.md",
@@ -376,11 +300,9 @@
     "飞书文档迁移/05-个人生活/05-沟通技巧",
     "飞书文档迁移/05-个人生活/04-文章输出/闲聊写作的好处.md",
     "飞书文档迁移/05-个人生活/04-文章输出/最好的学习方式：费曼学习法(Feynman Technique).md",
-    "飞书文档迁移/05-个人生活/04-文章输出",
     "飞书文档迁移/05-个人生活/03-情绪决策/情绪梳理.md",
     "飞书文档迁移/05-个人生活/03-情绪决策/20240207工作相关决策.md",
     "飞书文档迁移/05-个人生活/03-情绪决策/003-情绪轮.md",
-    "飞书文档迁移/05-个人生活/01-家庭/20240413家庭教育沟通.md",
     "未命名 1.canvas"
   ]
 }
