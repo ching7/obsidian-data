@@ -56,9 +56,21 @@
               "icon": "lucide-file",
               "title": "2025年度陈亚男述职汇报"
             }
+          },
+          {
+            "id": "6cace8f32f62f519",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +82,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 58.369565217391305,
+        "dimension": 58.3695652173913,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -117,7 +129,7 @@
       {
         "id": "954344b936eef90a",
         "type": "tabs",
-        "dimension": 41.630434782608695,
+        "dimension": 41.6304347826087,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -278,13 +290,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
@@ -310,11 +322,11 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://publish.obsidian.md/tasks/Queries/Global+Query",
-                    "title": "Global Query - Tasks User Guide - Obsidian Publish",
-                    "mode": "webview"
+                    "title": "data:text/plain,",
+                    "mode": "blank"
                   },
                   "icon": "globe-2",
-                  "title": "Global Query - Tasks User Guide - Obsidian Publish"
+                  "title": "data:text/plain,"
                 }
               }
             ]
@@ -322,7 +334,7 @@
         ],
         "direction": "vertical",
         "x": 448,
-        "y": 84,
+        "y": 80,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -330,7 +342,7 @@
       }
     ]
   },
-  "active": "106400718f437009",
+  "active": "6cace8f32f62f519",
   "lastOpenFiles": [
     "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
     "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
