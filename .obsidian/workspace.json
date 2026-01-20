@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "工作日报2026-01-19"
             }
           }
         ]
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "工作日报2026-01-19 的大纲"
             }
           }
         ]
@@ -264,11 +264,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "62c0c3829fd4cf97",
+  "active": "46feb89b16b8a3db",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-19 17.56.31.excalidraw.md",
-    "未命名.md",
+    "MermaidDraw/清远医保基金风险管控-国产化迁移与整合架构图.md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
+    "MermaidDraw",
+    "MermaidDraw",
+    "未命名.md",
+    "Drawing 2026-01-19 17.57.56.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-19 17.56.31.excalidraw.md",
     "02-工作/工作周报/第4周20260119-0123/华为联创问题进度以及进展跟踪.md",
     "未命名 1.base",
     "未命名.base",
@@ -298,12 +302,8 @@
     "02-工作/工作周报/第2周20260105-0109/未命名.canvas",
     "02-工作/工作周报/第2周20260105-0109",
     "SECURITY-SETUP.md",
-    "飞书文档迁移/知识整理/migration_log.json",
     "飞书文档迁移/知识整理/云原生.md",
-    "飞书文档迁移/知识整理",
     "飞书文档迁移/05-个人生活/Flutter Douyin.md",
-    "飞书文档迁移/05-个人生活/2025-4-8简历.md",
-    "飞书文档迁移/05-个人生活/06-读书笔记/读书笔记.md",
     "未命名 1.canvas"
   ]
 }
