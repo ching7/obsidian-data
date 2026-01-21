@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-21.md",
+                "file": "02-工作/2026-01-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "工作日报2026-01-21"
+              "title": "2026-01-21"
             }
           }
         ]
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-21.md",
+                "file": "02-工作/2026-01-21.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作日报2026-01-21 的大纲"
+              "title": "2026-01-21 的大纲"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
+                "file": "02-工作/工作周报/第4周20260119-0123/人员年度绩效筛选.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2025年度陈亚男述职汇报 的关系图"
+              "title": "人员年度绩效筛选 的关系图"
             }
           },
           {
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-工作/汇报/26年度汇报/2025年度陈亚男述职汇报.md",
+                "file": "02-工作/工作周报/第4周20260119-0123/人员年度绩效筛选.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025年度陈亚男述职汇报 的反向链接列表"
+              "title": "人员年度绩效筛选 的反向链接列表"
             }
           },
           {
@@ -267,7 +267,11 @@
   "active": "46feb89b16b8a3db",
   "lastOpenFiles": [
     "02-工作/工作周报/第4周20260119-0123/人员年度绩效筛选.md",
+    "02-工作/2026-01-21.md",
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估",
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估.md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-21.md",
+    "02-工作/工作周报/第4周20260119-0123/利安人寿-个险代理人赋能-初步方案与系统架构设计.md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
     "MermaidDraw/清远医保基金风险管控-国产化迁移与整合架构图.md",
     "MermaidDraw",
@@ -299,11 +303,7 @@
     "Excalidraw/Drawing 2026-01-09 16.16.20.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2026-01-09 16.16.03.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-09 16.15.08.excalidraw.md",
     "02-工作/工作周报/第2周20260105-0109/未命名.canvas",
-    "02-工作/工作周报/第2周20260105-0109",
-    "SECURITY-SETUP.md",
-    "飞书文档迁移/知识整理/云原生.md",
     "未命名 1.canvas"
   ]
 }

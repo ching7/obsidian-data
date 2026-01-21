@@ -1,5 +1,4 @@
 {
   "folder": "02-工作",
-  "template": "template/日报模板",
-  "autorun": true
+  "template": "template/日报模板"
 }

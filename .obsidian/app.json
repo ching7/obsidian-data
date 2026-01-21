@@ -9,5 +9,6 @@
   "showIndentGuide": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "openBehavior": "daily"
 }
