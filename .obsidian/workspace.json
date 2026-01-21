@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
+                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "工作日报2026-01-19"
+              "title": "工作日报2026-01-21"
             }
           }
         ]
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
+                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-21.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作日报2026-01-19 的大纲"
+              "title": "工作日报2026-01-21 的大纲"
             }
           }
         ]
@@ -266,8 +266,9 @@
   },
   "active": "46feb89b16b8a3db",
   "lastOpenFiles": [
-    "MermaidDraw/清远医保基金风险管控-国产化迁移与整合架构图.md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
+    "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-21.md",
+    "MermaidDraw/清远医保基金风险管控-国产化迁移与整合架构图.md",
     "MermaidDraw",
     "MermaidDraw",
     "未命名.md",
@@ -303,7 +304,6 @@
     "02-工作/工作周报/第2周20260105-0109",
     "SECURITY-SETUP.md",
     "飞书文档迁移/知识整理/云原生.md",
-    "飞书文档迁移/05-个人生活/Flutter Douyin.md",
     "未命名 1.canvas"
   ]
 }
