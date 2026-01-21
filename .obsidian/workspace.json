@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4efc8c0981332300",
+        "id": "6cb1950c47dbceab",
         "type": "tabs",
         "children": [
           {
-            "id": "46feb89b16b8a3db",
+            "id": "a6139763e2d6824f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/方案可行性评估报告.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "方案可行性评估报告"
             }
           }
         ]
@@ -84,19 +98,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/方案可行性评估报告.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "方案可行性评估报告 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 389.5
   },
   "right": {
     "id": "62184a15e2b388fd",
@@ -240,23 +255,31 @@
       "templates:插入模板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "bases:新建数据库": false
     }
   },
   "active": "62c0c3829fd4cf97",
   "lastOpenFiles": [
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿个险代理人赋能项目架构设计.canvas",
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/方案可行性评估报告.md",
+    "未命名.canvas",
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿物理部署架构图.canvas",
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/未命名.canvas",
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿逻辑架构图.canvas",
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/未命名.canvas.textClipping",
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿逻辑架构图.md",
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿物理部署架构图.md",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿项目架构设计与可行性评估.md",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿个险代理人赋能项目进展汇报.docx",
     "Excalidraw/未命名.canvas",
     "Excalidraw/利安人寿个险代理人赋能-技术方案架构.md",
     "Excalidraw/利安人寿个险代理人赋能-整体系统架构.md",
-    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/方案可行性评估报告.md",
     "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/references/layout-algorithms.md",
     "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/references/canvas-spec.md",
     "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/assets/template-mindmap-simple.canvas",
@@ -279,7 +302,6 @@
     "Excalidraw/axton-obsidian-visual-skills/assets",
     "Excalidraw/axton-obsidian-visual-skills/README_CN.md",
     "Excalidraw/axton-obsidian-visual-skills/README.md",
-    "Excalidraw/axton-obsidian-visual-skills/LICENSE",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安个险代理人赋能一期.系统架构流程.flowchart.md",
     "02-工作/2026-01-21.md",
     "02-工作/工作周报/第4周20260119-0123/人员年度绩效筛选.md",
@@ -290,9 +312,6 @@
     "MermaidDraw/清远医保基金风险管控-国产化迁移与整合架构图.md",
     "未命名.md",
     "Drawing 2026-01-19 17.57.56.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-19 17.56.31.excalidraw.md",
-    "飞书文档迁移/01-工作记录/03-项目文件/01-建信融通/04-双中心/20250417-融通实施双中心-会议纪要.md",
-    "02-工作/工作周报/第3周20260112-0116/工作日报2026-01-16.md",
     "02-工作/汇报/26年度汇报/Pasted image 20260108174935.png",
     "02-工作/工作周报/第2周20260105-0109/未命名.canvas",
     "未命名 1.canvas"
