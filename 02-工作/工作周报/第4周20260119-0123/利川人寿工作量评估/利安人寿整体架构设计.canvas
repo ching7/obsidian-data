@@ -7,8 +7,8 @@
 		{"id":"layer_ai","type":"text","text":"## AI能力层\n\n**推荐模型**    |    **大模型**    |    **语音引擎**\n\n协同过滤/规则引擎    星火大模型（私有化）    讯飞ASR（离线16k）","x":-40,"y":260,"width":1330,"height":180,"color":"5"},
 		{"id":"layer_data","type":"text","text":"## 数据层\n\n客户数据    |    产品数据    |    业务数据    |    标签数据    |    录音数据","x":-40,"y":490,"width":1330,"height":140,"color":"5"},
 		{"id":"deploy_hardware","type":"text","text":"## 硬件资源 华为910B GPU × 2\n- 星火陪练：1台8卡910B\n- 大模型推理：1台8卡910B（70B左右尺寸模型私有化部署）平衡性能、训练的最佳模型\n- 其他AI服务：0.5 × 910B（TTS、ASR等传统AI能力）","x":-40,"y":900,"width":440,"height":240,"color":"6"},
-		{"id":"deploy_software","type":"text","text":"## 软件私有化部署\n- 星火大模型\n- 星火陪练（语音版）\n- ASR引擎（离线）\n- 智能会议智能体","x":460,"y":900,"width":700,"height":240,"color":"6"},
-		{"id":"deploy_security","type":"text","text":"## 安全保障数据不出域\n- 传输加密（HTTPS）\n- 存储加密\n- 权限管控\n- 审计日志","x":1200,"y":930,"width":500,"height":180,"color":"1"}
+		{"id":"deploy_software","type":"text","text":"## 软件私有化部署\n- 星火大模型\n- 星火陪练（语音版）\n- ASR引擎（离线）\n- 智能会议智能体","x":460,"y":900,"width":420,"height":240,"color":"6"},
+		{"id":"deploy_security","type":"text","text":"## 安全保障数据不出域\n- 传输加密（HTTPS）\n- 存储加密\n- 权限管控\n- 审计日志","x":920,"y":900,"width":370,"height":240,"color":"1"}
 	],
 	"edges":[
 		{"id":"e5","fromNode":"layer_app","fromSide":"bottom","toNode":"layer_service","toSide":"top"},
