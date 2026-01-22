@@ -11,17 +11,24 @@
             "id": "a6139763e2d6824f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿整体架构设计.canvas",
-                "viewState": {
-                  "x": 858.6143215918781,
-                  "y": 845.9206667818819,
-                  "zoom": -0.7415251377022603
+                "file": "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/方案可行性评估报告.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "利安人寿整体架构设计"
+              "icon": "lucide-file",
+              "title": "方案可行性评估报告"
             }
           }
         ]
@@ -91,20 +98,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿整体架构设计.canvas",
+                "file": "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/方案可行性评估报告.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "利安人寿整体架构设计 的大纲"
+              "title": "方案可行性评估报告 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 413.5
   },
   "right": {
     "id": "62184a15e2b388fd",
@@ -259,8 +266,9 @@
   },
   "active": "a6139763e2d6824f",
   "lastOpenFiles": [
-    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/方案可行性评估报告.md",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿整体架构设计.canvas",
+    "02-工作/2026-01-21.md",
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/方案可行性评估报告.md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
     "02-工作/2026-01-22.md",
     "未命名文件夹",
@@ -299,7 +307,6 @@
     "Excalidraw/axton-obsidian-visual-skills/README_CN.md",
     "Excalidraw/axton-obsidian-visual-skills/README.md",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安个险代理人赋能一期.系统架构流程.flowchart.md",
-    "02-工作/2026-01-21.md",
     "02-工作/工作周报/第4周20260119-0123/人员年度绩效筛选.md",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估.md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-21.md",
