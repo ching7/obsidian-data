@@ -6,7 +6,6 @@
       {
         "id": "6cb1950c47dbceab",
         "type": "tabs",
-        "dimension": 44.66484268125855,
         "children": [
           {
             "id": "bd3182025eb0e1df",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/人员年度绩效筛选.md",
+                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "人员年度绩效筛选"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c57fd13b56c3e523",
-        "type": "tabs",
-        "dimension": 55.335157318741444,
-        "children": [
-          {
-            "id": "a6139763e2d6824f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿整体架构设计.canvas",
-                "viewState": {
-                  "x": 820,
-                  "y": 500,
-                  "zoom": -1.469265978741873
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "利安人寿整体架构设计"
+              "title": "工作日报2026-01-22"
             }
           }
         ]
@@ -123,20 +98,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/人员年度绩效筛选.md",
+                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-22.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "人员年度绩效筛选 的大纲"
+              "title": "工作日报2026-01-22 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 408.5
   },
   "right": {
     "id": "62184a15e2b388fd",
@@ -152,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/人员年度绩效筛选.md",
+                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-22.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "人员年度绩效筛选 的关系图"
+              "title": "工作日报2026-01-22 的关系图"
             }
           },
           {
@@ -271,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,9 +266,9 @@
   "active": "bd3182025eb0e1df",
   "lastOpenFiles": [
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/方案可行性评估报告.md",
+    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿整体架构设计.canvas",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-22.md",
     "02-工作/工作周报/第4周20260119-0123/人员年度绩效筛选.md",
-    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿整体架构设计.canvas",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-21.md",
     "02-工作/2026-01-21.md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
