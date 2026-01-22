@@ -3,23 +3,23 @@
   "mcp": {
     "word-document-server": {
       "type": "local",
-      "command": "/Users/chenyanan/Downloads/gitproject/mcp-server-all/Office-Word-MCP-Server/.venv/bin/python",
-      "args": [
+      "command": [
+        "/Users/chenyanan/Downloads/gitproject/mcp-server-all/Office-Word-MCP-Server/.venv/bin/python",
         "/Users/chenyanan/Downloads/gitproject/mcp-server-all/Office-Word-MCP-Server/word_mcp_server.py"
       ],
-      "env": {
+      "environment": {
         "PYTHONPATH": "/Users/chenyanan/Downloads/gitproject/mcp-server-all/Office-Word-MCP-Server",
         "MCP_TRANSPORT": "stdio"
       }
     },
     "excel": {
       "type": "local",
-      "command": "npx",
-      "args": [
+      "command": [
+        "npx",
         "--yes",
         "@zhiweixu/excel-mcp-server"
       ],
-      "env": {
+      "environment": {
         "LOG_PATH": "/Users/chenyanan/Downloads/04-文档/10-个人相关/00-personKnowledge/obsidian-data/.opencode/excel-mcp.log"
       }
     }
