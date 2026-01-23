@@ -1,0 +1,21 @@
+{
+    "mcpServers": {
+      "word-document-server": {
+        "command": "/Users/chenyanan/Downloads/gitproject/mcp-server-all/Office-Word-MCP-Server/.venv/bin/python",
+        "args": [
+          "/Users/chenyanan/Downloads/gitproject/mcp-server-all/Office-Word-MCP-Server/word_mcp_server.py"
+        ],
+        "env": {
+          "PYTHONPATH": "/Users/chenyanan/Downloads/gitproject/mcp-server-all/Office-Word-MCP-Server",
+          "MCP_TRANSPORT": "stdio"
+        }
+      },
+      "excel": {
+          "command": "npx",
+          "args": ["--yes", "@zhiweixu/excel-mcp-server"],
+          "env": {
+              "LOG_PATH": "[set an accessible absolute path]"
+          }
+      }
+    }
+  }
