@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/汇报/25年度汇报/2025年度述职汇报评价整理.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025年度述职汇报评价整理"
+              "title": "00-大模型能力拓展"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/汇报/25年度汇报/2025年度述职汇报评价整理.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025年度述职汇报评价整理 的大纲"
+              "title": "00-大模型能力拓展 的大纲"
             }
           }
         ]
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-工作/汇报/25年度汇报/2025年度述职汇报评价整理.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,7 +180,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2025年度述职汇报评价整理 的关系图"
+              "title": "00-大模型能力拓展 的关系图"
             }
           },
           {
@@ -193,7 +193,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,13 +215,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "62c0c3829fd4cf97",
+  "active": "406f094493c0076b",
   "lastOpenFiles": [
+    "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-23.md",
+    "01-技术/大模型提效/00-大模型能力拓展.md",
+    "未命名文件夹",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-22.md",
+    "02-工作/工作周报/第4周20260119-0123/2026-01-22周会纪要.md",
     "02-工作/汇报/25年度汇报/2025年度述职汇报评价整理.md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-21.md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
-    "02-工作/工作周报/第4周20260119-0123/2026-01-22周会纪要.md",
     "02-工作/汇报/25年绩效/人员年度绩效筛选.md",
     "02-工作/汇报/25年度汇报/2025年度陈亚男述职汇报.md",
     "02-工作/汇报/25年度自评.md",
@@ -233,7 +237,6 @@
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿整体架构设计.canvas",
     "02-工作/2026-01-21.md",
     "02-工作/2026-01-22.md",
-    "未命名文件夹",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿个险代理人赋能项目架构设计.canvas",
     "未命名.canvas",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿物理部署架构图.canvas",
@@ -259,8 +262,6 @@
     "Excalidraw/axton-obsidian-visual-skills/mermaid-visualizer/references",
     "Excalidraw/axton-obsidian-visual-skills/mermaid-visualizer/SKILL.md",
     "Excalidraw/axton-obsidian-visual-skills/mermaid-visualizer",
-    "Excalidraw/axton-obsidian-visual-skills/excalidraw-diagram/references/excalidraw-schema.md",
-    "Excalidraw/axton-obsidian-visual-skills/excalidraw-diagram/SKILL.md",
     "Excalidraw/axton-obsidian-visual-skills/assets/mermaid-demo.png",
     "Excalidraw/axton-obsidian-visual-skills/assets/excalidraw-demo.png",
     "Excalidraw/axton-obsidian-visual-skills/assets/canvas-demo.png",
