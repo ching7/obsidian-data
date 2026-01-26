@@ -43,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 69.78021978021978,
+        "dimension": 60.10989010989011,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#canal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
       {
         "id": "954344b936eef90a",
         "type": "tabs",
-        "dimension": 30.21978021978022,
+        "dimension": 39.89010989010989,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-23.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "工作日报2026-01-23 的关系图"
+              "title": "00-大模型能力拓展 的关系图"
             }
           },
           {
@@ -230,16 +230,15 @@
               "title": "添加笔记属性"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 468.5,
-    "collapsed": true
+    "width": 446.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "switcher:打开快速切换": false,
@@ -255,51 +254,51 @@
   },
   "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
+    "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
     "02-工作/2026-01-26.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-conversations/优化该报告，增加重点处的高亮@20260126_165403.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
-    "01-技术/大模型提效/01-大模型帮你画架构图.md",
-    "02-工作/工作周报/第5周20260126-0130/未命名.md",
-    "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-23.md",
+    "01-技术/架构设计/利川人寿工作量评估/方案可行性评估报告.md",
+    "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
+    "copilot/copilot-conversations",
+    "01-技术/架构设计/利川人寿工作量评估/未命名.base",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "02-工作/会议纪要",
+    "01-技术/架构设计",
+    "02-工作/汇报/25年度汇报/2025年度述职汇报评价整理.md",
+    "飞书文档迁移/04-模板规范/思维轮.md",
+    "飞书文档迁移/04-模板规范/周报/周会模板.md",
+    "飞书文档迁移/04-模板规范/邮件/工作周报-20240527-20240531.md",
+    "飞书文档迁移/04-模板规范/邮件/支撑前信息提供.md",
     "02-工作/工作周报/第5周20260126-0130",
-    "02-工作/工作周报/第4周20260119-0123/2026-01-22周会纪要.md",
-    "02-工作/工作周报/第4周20260119-0123/().md",
-    "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-22.md",
-    "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-21.md",
-    "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
     "[set an accessible absolute path]/excel-mcp-server-logs",
     "[set an accessible absolute path]",
-    "template/周会纪要模板.md",
-    "02-工作/2026-01-21.md",
-    "02-工作/2026-01-22.md",
-    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿整体架构设计.canvas",
-    "02-工作/汇报/25年绩效/人员年度绩效筛选.md",
-    "02-工作/汇报/25年度汇报/2025年度陈亚男述职汇报.md",
-    "02-工作/汇报/25年度汇报/2025年度述职汇报评价整理.md",
-    "飞书文档迁移/01-工作记录/01-工作日报/2024归档/17周-20240422-0426/17周-日报.md",
     "未命名文件夹",
-    "02-工作/汇报/25年度自评.md",
-    "01-技术/大模型提效",
-    "02-工作/汇报/25年绩效",
-    "template/日报模板.md",
-    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/方案可行性评估报告.md",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿个险代理人赋能项目架构设计.canvas",
     "未命名.canvas",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿物理部署架构图.canvas",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/未命名.canvas",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿逻辑架构图.canvas",
-    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/未命名.canvas.textClipping",
-    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿逻辑架构图.md",
-    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿物理部署架构图.md",
-    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿项目架构设计与可行性评估.md",
-    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿个险代理人赋能项目进展汇报.docx",
     "Excalidraw/未命名.canvas",
-    "Excalidraw/利安人寿个险代理人赋能-技术方案架构.md",
-    "Excalidraw/利安人寿个险代理人赋能-整体系统架构.md",
     "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/assets/template-mindmap-simple.canvas",
     "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/assets/template-freeform-grouped.canvas",
-    "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/references",
-    "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/assets",
     "Excalidraw/axton-obsidian-visual-skills/assets/mermaid-demo.png",
     "Excalidraw/axton-obsidian-visual-skills/assets/excalidraw-demo.png",
     "Excalidraw/axton-obsidian-visual-skills/assets/canvas-demo.png",
