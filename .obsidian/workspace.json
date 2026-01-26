@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "工作日报2026-01-26"
+              "title": "00-大模型能力拓展"
             }
           }
         ]
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作日报2026-01-26 的大纲"
+              "title": "00-大模型能力拓展 的大纲"
             }
           }
         ]
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "工作日报2026-01-26 的反向链接列表"
+              "title": "00-大模型能力拓展 的反向链接列表"
             }
           },
           {
@@ -193,12 +193,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "工作日报2026-01-26 的出链列表"
+              "title": "00-大模型能力拓展 的出链列表"
             }
           },
           {
@@ -253,10 +253,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "62c0c3829fd4cf97",
+  "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
-    "02-工作/2026-01-26.md",
     "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
+    "02-工作/2026-01-26.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "02-工作/工作周报/第5周20260126-0130/未命名.md",
