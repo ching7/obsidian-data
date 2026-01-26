@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/2026-01-26.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-26"
+              "title": "工作日报2026-01-26"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 60.98326359832637,
+        "dimension": 69.78021978021978,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -90,7 +90,7 @@
       {
         "id": "954344b936eef90a",
         "type": "tabs",
-        "dimension": 39.01673640167364,
+        "dimension": 30.21978021978022,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-23.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作日报2026-01-23 的大纲"
+              "title": "工作日报2026-01-26 的大纲"
             }
           }
         ]
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-23.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "工作日报2026-01-23 的反向链接列表"
+              "title": "工作日报2026-01-26 的反向链接列表"
             }
           },
           {
@@ -193,12 +193,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-23.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "工作日报2026-01-23 的出链列表"
+              "title": "工作日报2026-01-26 的出链列表"
             }
           },
           {
@@ -255,11 +255,15 @@
   },
   "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
-    "02-工作/2026-01-26.md",
-    "02-工作/工作周报/第4周20260119-0123/2026-01-22周会纪要.md",
-    "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-23.md",
-    "02-工作/工作周报/第4周20260119-0123/().md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
+    "01-技术/大模型提效/01-大模型帮你画架构图.md",
+    "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
+    "02-工作/工作周报/第5周20260126-0130/未命名.md",
+    "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-23.md",
+    "02-工作/2026-01-26.md",
+    "02-工作/工作周报/第5周20260126-0130",
+    "02-工作/工作周报/第4周20260119-0123/2026-01-22周会纪要.md",
+    "02-工作/工作周报/第4周20260119-0123/().md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-22.md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-21.md",
     "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-19.md",
@@ -273,7 +277,6 @@
     "02-工作/汇报/25年度汇报/2025年度陈亚男述职汇报.md",
     "02-工作/汇报/25年度汇报/2025年度述职汇报评价整理.md",
     "飞书文档迁移/01-工作记录/01-工作日报/2024归档/17周-20240422-0426/17周-日报.md",
-    "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "未命名文件夹",
     "02-工作/汇报/25年度自评.md",
     "01-技术/大模型提效",
@@ -293,13 +296,10 @@
     "Excalidraw/未命名.canvas",
     "Excalidraw/利安人寿个险代理人赋能-技术方案架构.md",
     "Excalidraw/利安人寿个险代理人赋能-整体系统架构.md",
-    "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/references/layout-algorithms.md",
-    "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/references/canvas-spec.md",
     "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/assets/template-mindmap-simple.canvas",
     "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/assets/template-freeform-grouped.canvas",
     "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/references",
     "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator/assets",
-    "Excalidraw/axton-obsidian-visual-skills/obsidian-canvas-creator",
     "Excalidraw/axton-obsidian-visual-skills/assets/mermaid-demo.png",
     "Excalidraw/axton-obsidian-visual-skills/assets/excalidraw-demo.png",
     "Excalidraw/axton-obsidian-visual-skills/assets/canvas-demo.png",
