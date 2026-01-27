@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
+                "file": "01-技术/云原生/helm、kind、k8s、higress使用.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-27"
+              "title": "helm、kind、k8s、higress使用"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 78.02197802197803,
+        "dimension": 58.901098901098905,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#canal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
       {
         "id": "954344b936eef90a",
         "type": "tabs",
-        "dimension": 21.978021978021978,
+        "dimension": 41.098901098901095,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
+                "file": "01-技术/云原生/helm、kind、k8s、higress使用.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-27 的大纲"
+              "title": "helm、kind、k8s、higress使用 的大纲"
             }
           }
         ]
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
+                "file": "01-技术/云原生/helm、kind、k8s、higress使用.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-01-27 的关系图"
+              "title": "helm、kind、k8s、higress使用 的关系图"
             }
           },
           {
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
+                "file": "01-技术/云原生/helm、kind、k8s、higress使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-01-27 的反向链接列表"
+              "title": "helm、kind、k8s、higress使用 的反向链接列表"
             }
           },
           {
@@ -203,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
+                "file": "01-技术/云原生/helm、kind、k8s、higress使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-01-27 的出链列表"
+              "title": "helm、kind、k8s、higress使用 的出链列表"
             }
           },
           {
@@ -266,10 +266,19 @@
   },
   "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
+    "飞书文档迁移/03-知识记录/06-自建大模型/02-自建mcp服务/使用nacos自建mcp服务.md",
+    "01-技术/云原生/helm、kind、k8s、higress使用.md",
+    "01-技术/云原生",
+    "01-技术/未命名.md",
+    "飞书文档迁移/01-工作记录/03-项目文件/02-服务机器人平台/02-可观测与JDK降级/20250317ARM-JDK.md",
+    "飞书文档迁移/03-知识记录/04-软件开发/01-面试相关/面试知识=历史.md",
+    "飞书文档迁移/01-工作记录/01-工作日报/2025归档/第43周-20251020-1024.md",
+    "飞书文档迁移/01-工作记录/01-工作日报/2025归档/第41周-42周-20251009-1012.md",
+    "飞书文档迁移/03-知识记录/04-软件开发/09-K8s/01-K8s base.md",
+    "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
     "01-技术/架构设计/工行智能体协同/工行联创项目方向.jpg",
     "01-技术/架构设计/工行智能体协同/企业级多智能体协同编排与动态自愈执行平台研究课题.md",
     "01-技术/架构设计/工行智能体协同/智能体自主协同执行系统研究课题.md",
-    "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
     "01-技术/架构设计/工行联创项目方向.jpg",
     "01-技术/架构设计/工行智能体协同/工行-2026课题收集.xlsx",
     "Excalidraw/Drawing 2026-01-27 14.01.27.excalidraw.md",
@@ -291,19 +300,11 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "02-工作/会议纪要",
     "01-技术/架构设计",
     "02-工作/工作周报/第5周20260126-0130",
-    "[set an accessible absolute path]/excel-mcp-server-logs",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿个险代理人赋能项目架构设计.canvas",
     "未命名.canvas",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿物理部署架构图.canvas",
