@@ -1,4 +1,5 @@
 {
-  "folder": "02-工作",
-  "template": "template/日报模板"
+  "folder": "02-工作/工作周报",
+  "template": "template/日报模板",
+  "format": "YYYY-MM-DD"
 }

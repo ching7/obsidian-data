@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00-大模型能力拓展"
+              "title": "2026-01-27"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 60.10989010989011,
+        "dimension": 72.63736263736263,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -90,7 +90,7 @@
       {
         "id": "954344b936eef90a",
         "type": "tabs",
-        "dimension": 39.89010989010989,
+        "dimension": 27.362637362637365,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00-大模型能力拓展 的大纲"
+              "title": "2026-01-27 的大纲"
             }
           }
         ]
@@ -122,12 +122,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e453371f650727a1",
+            "type": "leaf",
+            "state": {
+              "type": "chinese-calendar-view",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "日历"
+            }
+          },
+          {
             "id": "2afd4889b7e437ad",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "00-大模型能力拓展 的关系图"
+              "title": "2026-01-27 的关系图"
             }
           },
           {
@@ -174,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "00-大模型能力拓展 的反向链接列表"
+              "title": "2026-01-27 的反向链接列表"
             }
           },
           {
@@ -193,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "00-大模型能力拓展 的出链列表"
+              "title": "2026-01-27 的出链列表"
             }
           },
           {
@@ -234,7 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,14 +264,17 @@
   },
   "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
-    "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
+    "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
+    "01-技术/大模型提效/00-大模型能力拓展.md",
+    "02-工作/工作周报/2026-01-26.md",
+    "02-工作/2026-01-27.md",
+    "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "02-工作/2026-01-26.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-conversations/优化该报告，增加重点处的高亮@20260126_165403.md",
-    "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/架构设计/利川人寿工作量评估/方案可行性评估报告.md",
     "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
     "copilot/copilot-conversations",
@@ -284,9 +297,6 @@
     "01-技术/架构设计",
     "02-工作/汇报/25年度汇报/2025年度述职汇报评价整理.md",
     "飞书文档迁移/04-模板规范/思维轮.md",
-    "飞书文档迁移/04-模板规范/周报/周会模板.md",
-    "飞书文档迁移/04-模板规范/邮件/工作周报-20240527-20240531.md",
-    "飞书文档迁移/04-模板规范/邮件/支撑前信息提供.md",
     "02-工作/工作周报/第5周20260126-0130",
     "[set an accessible absolute path]/excel-mcp-server-logs",
     "[set an accessible absolute path]",
