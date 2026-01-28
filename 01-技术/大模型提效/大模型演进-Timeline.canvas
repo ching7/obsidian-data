@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"stage1-node","type":"text","text":"## 第一阶段\n**线性模型**\n\n📐 y = wx + b\n\n像「按单价算总价」\n✅ 简单计算\n❌ 无法理解复杂关系","x":0,"y":0,"width":300,"height":360,"color":"1"},
+		{"id":"stage2-node","type":"text","text":"## 第二阶段\n**MLP 多层神经网络**\n\n📐 输出 = 激活(加权求和)\n\n🏭 输入→隐藏→输出\n像「流水线加工」\n✅ 自动学习特征\n❌ 只能定长输入","x":350,"y":0,"width":300,"height":360,"color":"2"},
+		{"id":"stage3-node","type":"text","text":"## 第三阶段\n**CNN / RNN**\n\n📐 当前状态 = f(上一步, 当前输入)\n\n🔍 CNN: 用放大镜看图片\n📖 RNN: 读书做笔记\n✅ 专门处理图像/文本\n❌ 记不住长上下文","x":700,"y":0,"width":300,"height":360,"color":"3"},
+		{"id":"stage4-node","type":"text","text":"## 第四阶段\n**Attention 机制**\n\n📐 输出 = 注意力权重 × 内容\n\n👀 真正的分水岭\n像「自动抓重点」\n✅ 所有词互相对视\n✅ 理解指代关系","x":1050,"y":0,"width":300,"height":360,"color":"4"},
+		{"id":"stage5-node","type":"text","text":"## 第五阶段\n**Transformer (2017)**\n\n📐 多头注意力 = 多角度理解\n\n⚡ 大模型的地基\n全靠 Attention\n✅ 并行计算\n✅ 超长上下文\n✅ 结构统一","x":1400,"y":0,"width":300,"height":360,"color":"5"},
+		{"id":"key-breakthrough1","type":"text","text":"🔑 突破点：\n自动学习特征","x":410,"y":-160,"width":180,"height":80,"color":"3"},
+		{"id":"key-breakthrough2","type":"text","text":"🔑 突破点：\n理解上下文","x":1110,"y":-160,"width":180,"height":80,"color":"3"},
+		{"id":"key-breakthrough3","type":"text","text":"🔑 突破点：\n通用推理能力","x":1460,"y":-160,"width":180,"height":80,"color":"3"},
+		{"id":"app-stage1","type":"text","text":"### 📱 实际应用\n\n• 线性回归\n• 逻辑回归\n• 简单分类器","x":0,"y":380,"width":300,"height":220,"color":"1"},
+		{"id":"app-stage2","type":"text","text":"### 📱 实际应用\n\n• 手写数字识别\n• 简单图像分类\n• 早期推荐系统","x":350,"y":380,"width":300,"height":220,"color":"2"},
+		{"id":"app-stage3","type":"text","text":"### 📱 实际应用\n\n• 传统 OCR（Tesseract）\n• 早期 TTS/ASR\n• 人脸识别（CNN）\n• 机器翻译（RNN）","x":700,"y":380,"width":300,"height":220,"color":"3"},
+		{"id":"app-stage4","type":"text","text":"### 📱 实际应用\n\n• 注意力机制应用\n• 改进的翻译模型\n• 图像描述生成","x":1050,"y":380,"width":300,"height":220,"color":"4"},
+		{"id":"app-stage5","type":"text","text":"### 📱 实际应用\n\n• BERT（搜索/NLU）\n• Whisper（语音识别）\n• Tacotron（TTS）\n• ViT（图像分类）","x":1400,"y":380,"width":300,"height":220,"color":"5"},
+		{"id":"stage7-node","type":"text","text":"## 第七阶段\n**指令微调 & 对齐**\n\n🎯 SFT / RLHF\n\n像「学会和人交流」\n✅ 听话、有用、无害\n✅ 按指令执行","x":1050,"y":680,"width":300,"height":360,"color":"1"},
+		{"id":"app-stage7","type":"text","text":"### 📱 实际应用\n\n• ChatGPT（对话助手）\n• Claude（Constitutional AI）\n• Gemini（多模态）\n• DeepSeek Chat\n• 文心一言、通义千问","x":1050,"y":1060,"width":300,"height":260,"color":"1"},
+		{"id":"stage6-node","type":"text","text":"## 第六阶段\n**预训练大模型**\n\n📐 P(下一个词 | 前面所有词)\n\n📚 通用语言理解器\n做完形填空学习\nGPT / BERT / LLaMA\n✅ 通用理解能力","x":1400,"y":680,"width":300,"height":360,"color":"6"},
+		{"id":"app-stage6","type":"text","text":"### 📱 实际应用\n\n• GPT-3（基础版）\n• LLaMA 系列\n• Qwen 基础模型\n• DeepSeek 基础模型\n• BLOOM","x":1400,"y":1060,"width":300,"height":260,"color":"6"},
+		{"id":"stage8-node","type":"text","text":"## 第八阶段\n**Agent 时代**\n\n🤖 从模型到系统\n\n像「能干助理」\n✅ 会规划、调工具\n✅ 会反思、自我修正","x":700,"y":680,"width":300,"height":360,"color":"2"},
+		{"id":"app-stage8","type":"text","text":"### 📱 实际应用\n\n• Cursor / Claude Code（编程）\n• AutoGPT（自主任务）\n• LangChain Agent\n• OpenAI Assistants\n• 多模态 Agent","x":700,"y":1060,"width":300,"height":260,"color":"2"},
+		{"id":"special-multimodal","type":"text","text":"### 🎨 多模态演进\n\n**文本+图像+语音**\n\n• GPT-4V（视觉理解）\n• Gemini（原生多模态）\n• DeepSeek OCR2（文档理解）\n• CLIP（图文对齐）\n\n跨越第6-7阶段","x":350,"y":680,"width":320,"height":640,"color":"5"},
+		{"id":"timeline-title","type":"text","text":"# 大模型演进时间线\n\n从「只会算」→「能看/听/记」→「会理解上下文」→「会通用推理」","x":0,"y":-360,"width":680,"height":120,"color":"6"}
+	],
+	"edges":[
+		{"id":"edge1-2","fromNode":"stage1-node","fromSide":"right","toNode":"stage2-node","toSide":"left","color":"6"},
+		{"id":"edge2-3","fromNode":"stage2-node","fromSide":"right","toNode":"stage3-node","toSide":"left","color":"6"},
+		{"id":"edge3-4","fromNode":"stage3-node","fromSide":"right","toNode":"stage4-node","toSide":"left","color":"6"},
+		{"id":"edge4-5","fromNode":"stage4-node","fromSide":"right","toNode":"stage5-node","toSide":"left","color":"6"},
+		{"id":"edge5-6","fromNode":"stage5-node","fromSide":"bottom","toNode":"stage6-node","toSide":"top","color":"6"},
+		{"id":"edge-breakthrough1","fromNode":"key-breakthrough1","fromSide":"bottom","toNode":"stage2-node","toSide":"top","color":"3"},
+		{"id":"edge-breakthrough2","fromNode":"key-breakthrough2","fromSide":"bottom","toNode":"stage4-node","toSide":"top","color":"3"},
+		{"id":"edge-breakthrough3","fromNode":"key-breakthrough3","fromSide":"bottom","toNode":"stage5-node","toSide":"top","color":"3"},
+		{"id":"df0ebc6c4048b475","fromNode":"stage6-node","fromSide":"left","toNode":"stage7-node","toSide":"right"},
+		{"id":"aed022ec160a07e8","fromNode":"stage7-node","fromSide":"left","toNode":"stage8-node","toSide":"right"}
+	]
+}
