@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-27"
+              "title": "00-大模型能力拓展"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 58.901098901098905,
+        "dimension": 28.57142857142857,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -90,7 +90,7 @@
       {
         "id": "954344b936eef90a",
         "type": "tabs",
-        "dimension": 41.098901098901095,
+        "dimension": 71.42857142857143,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-27 的大纲"
+              "title": "00-大模型能力拓展 的大纲"
             }
           }
         ]
@@ -265,6 +265,11 @@
   },
   "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
+    "01-技术/大模型提效/01-大模型帮你画架构图.md",
+    "01-技术/大模型提效/00-大模型能力拓展.md",
+    "02-工作/工作周报/第5周20260126-0130/2026-01-28.md",
+    "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
+    "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
     "01-技术/云原生/helm、kind、k8s、higress使用.md",
     "飞书文档迁移/03-知识记录/06-自建大模型/02-自建mcp服务/使用nacos自建mcp服务.md",
     "01-技术/云原生",
@@ -274,7 +279,6 @@
     "飞书文档迁移/01-工作记录/01-工作日报/2025归档/第43周-20251020-1024.md",
     "飞书文档迁移/01-工作记录/01-工作日报/2025归档/第41周-42周-20251009-1012.md",
     "飞书文档迁移/03-知识记录/04-软件开发/09-K8s/01-K8s base.md",
-    "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
     "01-技术/架构设计/工行智能体协同/工行联创项目方向.jpg",
     "01-技术/架构设计/工行智能体协同/企业级多智能体协同编排与动态自愈执行平台研究课题.md",
     "01-技术/架构设计/工行智能体协同/智能体自主协同执行系统研究课题.md",
@@ -282,11 +286,8 @@
     "01-技术/架构设计/工行智能体协同/工行-2026课题收集.xlsx",
     "Excalidraw/Drawing 2026-01-27 14.01.27.excalidraw.md",
     "01-技术/架构设计/工行智能体协同",
-    "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
-    "01-技术/大模型提效/00-大模型能力拓展.md",
     "02-工作/工作周报/2026-01-26.md",
     "02-工作/2026-01-27.md",
-    "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "02-工作/2026-01-26.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
@@ -298,7 +299,6 @@
     "01-技术/架构设计/利川人寿工作量评估/未命名.base",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "02-工作/会议纪要",
