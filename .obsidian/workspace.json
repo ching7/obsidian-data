@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "02-工作/会议纪要/2026年1月28日测试述职.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00-大模型能力拓展"
+              "title": "2026年1月28日测试述职"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 28.57142857142857,
+        "dimension": 60.42600896860987,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -90,7 +90,7 @@
       {
         "id": "954344b936eef90a",
         "type": "tabs",
-        "dimension": 71.42857142857143,
+        "dimension": 39.57399103139013,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -98,20 +98,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "02-工作/会议纪要/2026年1月28日测试述职.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00-大模型能力拓展 的大纲"
+              "title": "2026年1月28日测试述职 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 259.5
   },
   "right": {
     "id": "62184a15e2b388fd",
@@ -244,7 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,10 +265,13 @@
   },
   "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
-    "01-技术/大模型提效/01-大模型帮你画架构图.md",
-    "01-技术/大模型提效/00-大模型能力拓展.md",
+    "02-工作/会议纪要/Pasted image 20260128152619.png",
+    "02-工作/会议纪要/2026年1月28日测试述职.md",
+    "02-工作/会议纪要/2026-01-22周会纪要与待办.md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-28.md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
+    "01-技术/大模型提效/00-大模型能力拓展.md",
+    "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
     "01-技术/云原生/helm、kind、k8s、higress使用.md",
     "飞书文档迁移/03-知识记录/06-自建大模型/02-自建mcp服务/使用nacos自建mcp服务.md",
@@ -293,12 +296,9 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-conversations/优化该报告，增加重点处的高亮@20260126_165403.md",
-    "01-技术/架构设计/利川人寿工作量评估/方案可行性评估报告.md",
     "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
     "copilot/copilot-conversations",
     "01-技术/架构设计/利川人寿工作量评估/未命名.base",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "02-工作/会议纪要",
