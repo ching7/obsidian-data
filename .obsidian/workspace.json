@@ -248,7 +248,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Open Copilot Chat": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "switcher:打开快速切换": false,
