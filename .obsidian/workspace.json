@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-01-27 的关系图"
+              "title": "00-大模型能力拓展 的关系图"
             }
           },
           {
@@ -265,7 +265,8 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -288,7 +289,7 @@
       "nutstore-sync:停止同步": false
     }
   },
-  "active": "8fcb542330845485",
+  "active": "2afd4889b7e437ad",
   "lastOpenFiles": [
     "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
