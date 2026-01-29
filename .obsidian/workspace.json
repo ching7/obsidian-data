@@ -68,6 +68,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
+        "dimension": 54.83516483516484,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -114,6 +115,7 @@
       {
         "id": "3866b6936b632748",
         "type": "tabs",
+        "dimension": 45.16483516483517,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -263,12 +265,11 @@
               "title": "添加笔记属性"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 534.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,10 +290,18 @@
   },
   "active": "8fcb542330845485",
   "lastOpenFiles": [
-    "01-技术/大模型提效/01-大模型帮你画架构图.md",
+    "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习/ReinforcementLearning.py.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
-    "01-技术/大模型提效/大模型演进.md",
+    "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习",
+    "Users/chenyanan/Downloads/gitproject/llm/llm-base",
+    "Users/chenyanan/Downloads/gitproject/llm",
+    "Users/chenyanan/Downloads/gitproject",
+    "Users/chenyanan/Downloads",
+    "Users/chenyanan",
+    "Users",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
+    "01-技术/大模型提效/01-大模型帮你画架构图.md",
+    "01-技术/大模型提效/大模型演进.md",
     "01-技术/大模型提效/().md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-28.md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
@@ -322,13 +331,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
-    "copilot/copilot-conversations",
-    "01-技术/架构设计/利川人寿工作量评估/未命名.base",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "02-工作/会议纪要",
-    "01-技术/架构设计",
-    "02-工作/工作周报/第5周20260126-0130",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿个险代理人赋能项目架构设计.canvas",
     "未命名.canvas",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿物理部署架构图.canvas",
