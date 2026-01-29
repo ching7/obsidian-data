@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "00-大模型能力拓展"
             }
-          },
-          {
-            "id": "8fcb542330845485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-29"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 54.83516483516484,
+        "dimension": 78.02197802197803,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -115,7 +90,7 @@
       {
         "id": "3866b6936b632748",
         "type": "tabs",
-        "dimension": 45.16483516483517,
+        "dimension": 21.978021978021978,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -123,20 +98,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-29 的大纲"
+              "title": "00-大模型能力拓展 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 411.5
   },
   "right": {
     "id": "62184a15e2b388fd",
@@ -162,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-01-29 的关系图"
+              "title": "00-大模型能力拓展 的关系图"
             }
           },
           {
@@ -269,7 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,11 +263,14 @@
       "nutstore-sync:停止同步": false
     }
   },
-  "active": "8fcb542330845485",
+  "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
-    "02-工作/工作周报/第5周20260126-0130/2026-01-28.md",
-    "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
+    "02-工作/汇报/25年绩效/人员年度绩效筛选.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
+    "02-工作/会议纪要/2026-01-22周会纪要与待办.md",
+    "02-工作/会议纪要/2026年1月28日测试述职.md",
+    "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
+    "02-工作/工作周报/第5周20260126-0130/2026-01-28.md",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习/ReinforcementLearning.py.md",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base",
@@ -306,9 +284,7 @@
     "01-技术/大模型提效/大模型演进.md",
     "01-技术/大模型提效/().md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
-    "02-工作/会议纪要/2026年1月28日测试述职.md",
     "02-工作/会议纪要/Pasted image 20260128152619.png",
-    "02-工作/会议纪要/2026-01-22周会纪要与待办.md",
     "02-工作/工作周报/第5周20260126-0130/工作日报2026-01-26.md",
     "01-技术/云原生/helm、kind、k8s、higress使用.md",
     "飞书文档迁移/03-知识记录/06-自建大模型/02-自建mcp服务/使用nacos自建mcp服务.md",
@@ -329,7 +305,6 @@
     "02-工作/工作周报/2026-01-26.md",
     "02-工作/2026-01-27.md",
     "02-工作/2026-01-26.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿个险代理人赋能项目架构设计.canvas",
     "未命名.canvas",
