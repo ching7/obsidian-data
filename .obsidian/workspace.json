@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00-大模型能力拓展"
+              "title": "2026-01-29"
             }
           }
         ],
@@ -123,20 +123,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00-大模型能力拓展 的大纲"
+              "title": "2026-01-29 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 291.5
   },
   "right": {
     "id": "62184a15e2b388fd",
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "00-大模型能力拓展 的关系图"
+              "title": "2026-01-29 的关系图"
             }
           },
           {
@@ -290,8 +290,10 @@
   },
   "active": "8fcb542330845485",
   "lastOpenFiles": [
-    "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习/ReinforcementLearning.py.md",
+    "02-工作/工作周报/第5周20260126-0130/2026-01-28.md",
+    "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
+    "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习/ReinforcementLearning.py.md",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base",
     "Users/chenyanan/Downloads/gitproject/llm",
@@ -303,7 +305,6 @@
     "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "01-技术/大模型提效/大模型演进.md",
     "01-技术/大模型提效/().md",
-    "02-工作/工作周报/第5周20260126-0130/2026-01-28.md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
     "02-工作/会议纪要/2026年1月28日测试述职.md",
     "02-工作/会议纪要/Pasted image 20260128152619.png",
@@ -329,7 +330,6 @@
     "02-工作/2026-01-27.md",
     "02-工作/2026-01-26.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿个险代理人赋能项目架构设计.canvas",
     "未命名.canvas",
