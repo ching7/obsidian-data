@@ -11,17 +11,24 @@
             "id": "ec1b38cbb4aa8ccb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
-                "viewState": {
-                  "x": 779.266889389181,
-                  "y": 535.5764369105387,
-                  "zoom": -1.1350450334963225
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "利安人寿整体架构设计"
+              "icon": "lucide-file",
+              "title": "00-大模型能力拓展"
             }
           }
         ]
@@ -36,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 67.80219780219781,
+        "dimension": 35.494505494505496,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -83,7 +90,7 @@
       {
         "id": "3866b6936b632748",
         "type": "tabs",
-        "dimension": 32.1978021978022,
+        "dimension": 64.50549450549451,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -91,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "利安人寿整体架构设计 的大纲"
+              "title": "00-大模型能力拓展 的大纲"
             }
           }
         ]
@@ -130,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "利安人寿整体架构设计 的关系图"
+              "title": "00-大模型能力拓展 的关系图"
             }
           },
           {
@@ -258,14 +265,17 @@
   },
   "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
-    "01-技术/架构设计/利川人寿工作量评估/方案可行性评估报告.md",
-    "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
-    "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-22.md",
+    "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
+    "02-工作/工作周报/第5周20260126-0130/2026-01-30.md",
+    "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
+    "02-工作/汇报/25年度汇报/2025年度述职汇报评价整理.md",
+    "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
+    "01-技术/架构设计/利川人寿工作量评估/方案可行性评估报告.md",
+    "02-工作/工作周报/第4周20260119-0123/工作日报2026-01-22.md",
     "02-工作/汇报/25年绩效/人员年度绩效筛选.md",
     "02-工作/会议纪要/2026-01-22周会纪要与待办.md",
     "02-工作/会议纪要/2026年1月28日测试述职.md",
-    "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-28.md",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习/ReinforcementLearning.py.md",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习",
@@ -276,7 +286,6 @@
     "Users/chenyanan",
     "Users",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
-    "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "01-技术/大模型提效/大模型演进.md",
     "01-技术/大模型提效/().md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
@@ -296,7 +305,6 @@
     "01-技术/架构设计/工行智能体协同/智能体自主协同执行系统研究课题.md",
     "01-技术/架构设计/工行联创项目方向.jpg",
     "01-技术/架构设计/工行智能体协同/工行-2026课题收集.xlsx",
-    "Excalidraw/Drawing 2026-01-27 14.01.27.excalidraw.md",
     "01-技术/架构设计/工行智能体协同",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿个险代理人赋能项目架构设计.canvas",
     "未命名.canvas",
