@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-生活/26年规划/2026年度.md",
+                "file": "template/周会纪要模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026年度"
+              "title": "周会纪要模板"
             }
           }
         ]
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-生活/26年规划/2026年度.md",
+                "file": "template/周会纪要模板.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026年度 的大纲"
+              "title": "周会纪要模板 的大纲"
             }
           }
         ]
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-生活/26年规划/2026年度.md",
+                "file": "template/周会纪要模板.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026年度 的关系图"
+              "title": "周会纪要模板 的关系图"
             }
           },
           {
@@ -260,14 +260,13 @@
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
       "nutstore-sync:开始同步": false,
-      "nutstore-sync:停止同步": false,
-      "periodic-notes:Open today": false
+      "nutstore-sync:停止同步": false
     }
   },
   "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
-    "00-生活/26年规划/2026-Q1季度.md",
     "00-生活/26年规划/2026-01月.md",
+    "00-生活/26年规划/2026-Q1季度.md",
     "00-生活/26年规划/2026年度.md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-30.md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
