@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-技术/架构设计/中行20260201述标技术答疑.md",
+                "file": "02-工作/工作周报/2026-02-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "中行20260201述标技术答疑"
+              "title": "2026-02-02"
             }
           }
         ]
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/架构设计/中行20260201述标技术答疑.md",
+                "file": "02-工作/工作周报/2026-02-02.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "中行20260201述标技术答疑 的大纲"
+              "title": "2026-02-02 的大纲"
             }
           }
         ]
@@ -266,8 +266,9 @@
   },
   "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
-    "02-工作/工作周报/第5周20260126-0130/2026-02-01.md",
     "01-技术/架构设计/中行20260201述标技术答疑.md",
+    "02-工作/工作周报/2026-02-02.md",
+    "02-工作/工作周报/第5周20260126-0130/2026-02-01.md",
     "template/周会纪要模板.md",
     "00-生活/26年规划/2026-01月.md",
     "00-生活/26年规划/2026-Q1季度.md",
@@ -293,7 +294,6 @@
     "00-生活/26年规划",
     "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型提效/大模型演进.md",
-    "01-技术/大模型提效/01-大模型帮你画架构图.md",
     "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base",
