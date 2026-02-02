@@ -111,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 200
   },
   "right": {
     "id": "62184a15e2b388fd",
@@ -244,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,7 +265,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e453371f650727a1",
+  "active": "ec1b38cbb4aa8ccb",
   "lastOpenFiles": [
     "01-技术/架构设计/中行技术20260202述标技术答疑/智算队列调度.png",
     "01-技术/架构设计/中行技术20260202述标技术答疑/中行20260201述标技术答疑.md",
