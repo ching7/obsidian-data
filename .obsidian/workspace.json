@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "82bf2b4f091d2278",
+        "id": "663dbf856aa3ebbd",
         "type": "tabs",
         "children": [
           {
-            "id": "15007ac63c4db71b",
+            "id": "c7161b9661807739",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "00-生活/26年读书/Drawing 2026-02-03 11.06.37.excalidraw.md"
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-03 11.06.37.excalidraw"
+              "icon": "lucide-file",
+              "title": "00-大模型能力拓展"
             }
           }
         ]
@@ -31,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 65.38461538461539,
+        "dimension": 74.00497512437812,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -78,7 +90,7 @@
       {
         "id": "3866b6936b632748",
         "type": "tabs",
-        "dimension": 34.61538461538461,
+        "dimension": 25.99502487562189,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -86,20 +98,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-生活/26年读书/Drawing 2026-02-03 11.06.37.excalidraw.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-02-03 11.06.37.excalidraw 的大纲"
+              "title": "00-大模型能力拓展 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 350.5
   },
   "right": {
     "id": "62184a15e2b388fd",
@@ -238,12 +250,11 @@
               "title": "Excalidraw 侧边面板"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -335,8 +346,14 @@
       }
     ]
   },
-  "active": "15007ac63c4db71b",
+  "active": "62c0c3829fd4cf97",
   "lastOpenFiles": [
+    "01-技术/大模型提效/大模型演进-Timeline.canvas",
+    "01-技术/大模型提效/00-大模型能力拓展.md",
+    "01-技术/大模型提效/大模型演进.md",
+    "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习/ReinforcementLearning.py.md",
+    "02-工作/工作周报/第6周20260202-0206/2026-02-02.md",
+    "02-工作/工作周报/第6周20260202-0206/2026-02-03.md",
     "02-工作/工作周报/2026-02-03.md",
     "00-生活/26年读书/Drawing 2026-02-03 11.06.37.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
@@ -351,15 +368,10 @@
     "Excalidraw/Scripts",
     "00-生活/26年读书/反常识管理.canvas",
     "00-生活/26年规划/2026年度.md",
-    "02-工作/工作周报/第6周20260202-0206/2026-02-03.md",
     "00-生活/26年读书/反常识管理-读书笔记.md",
     "00-生活/未命名.md",
     "00-生活/26年读书",
-    "01-技术/大模型提效/00-大模型能力拓展.md",
-    "01-技术/大模型提效/大模型演进.md",
     "01-技术/架构设计/中行技术20260202述标技术答疑/中行20260201述标技术答疑.md",
-    "01-技术/大模型提效/大模型演进-Timeline.canvas",
-    "02-工作/工作周报/第6周20260202-0206/2026-02-02.md",
     "02-工作/工作周报/第6周20260202-0206.md",
     "02-工作/工作周报/第6周20260202-0206",
     "01-技术/架构设计/中行技术20260202述标技术答疑/智算队列调度.png",
@@ -374,7 +386,6 @@
     "00-生活/26年规划/2026-第1月.md",
     "template/季度模板.md",
     "02-工作/工作周报/2026-W05.md",
-    "template/年报模板.md",
     "template/未命名",
     "00-生活/26年规划",
     "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
