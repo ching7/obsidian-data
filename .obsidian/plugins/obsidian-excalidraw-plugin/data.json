@@ -145,6 +145,28 @@
           "MANUAL_JITTER_RANGE": 300
         },
         "hidden": true
+      },
+      "Is Undocked": {
+        "value": false,
+        "hidden": false
+      }
+    },
+    "Downloaded/Mindmap format": {
+      "MindMap Format": {
+        "value": "Excalidraw/MindMap Format",
+        "description": "This is prepared for the namespace of MindMap Format and does not need to be modified"
+      },
+      "default gap": {
+        "value": 10,
+        "description": "Interval size of element"
+      },
+      "curve length": {
+        "value": 40,
+        "description": "The length of the curve part in the mind map line"
+      },
+      "length between element and line": {
+        "value": 50,
+        "description": "The distance between the tail of the connection and the connecting elements of the mind map"
       }
     }
   },
@@ -157,7 +179,9 @@
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
-  "sidepanelTabs": [],
+  "sidepanelTabs": [
+    "{\"script\":\"Downloaded/Mindmap Builder\",\"title\":\"MindMap Builder\"}"
+  ],
   "customPens": [
     {
       "type": "default",
