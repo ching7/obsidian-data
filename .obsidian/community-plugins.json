@@ -1,8 +1,8 @@
 [
   "obsidian-git",
   "obsidian-tasks-plugin",
-  "obsidian-excalidraw-plugin",
   "chinese-calendar",
   "nutstore-sync",
-  "periodic-notes"
+  "periodic-notes",
+  "obsidian-excalidraw-plugin"
 ]
