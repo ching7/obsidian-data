@@ -261,8 +261,7 @@
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
       "nutstore-sync:开始同步": false,
-      "nutstore-sync:停止同步": false,
-      "periodic-notes:Open today": false
+      "nutstore-sync:停止同步": false
     }
   },
   "active": "ec1b38cbb4aa8ccb",
