@@ -110,16 +110,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18362f49c593c5d9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw 侧边面板"
-            }
-          },
-          {
             "id": "e453371f650727a1",
             "type": "leaf",
             "state": {
@@ -237,8 +227,19 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "7e3fab44e5bf89f3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw 侧边面板"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -281,11 +282,11 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Mindmap%20Builder.md",
-                    "title": "github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Mindmap Builder.md",
-                    "mode": "error"
+                    "title": "obsidian-excalidraw-plugin/ea-scripts/Mindmap Builder.md at master · zsviczian/obsidian-excalidraw-plugin · GitHub",
+                    "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Mindmap Builder.md"
+                  "title": "obsidian-excalidraw-plugin/ea-scripts/Mindmap Builder.md at master · zsviczian/obsidian-excalidraw-plugin · GitHub"
                 }
               }
             ]
@@ -314,11 +315,11 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/docs/zh-cn/README.md",
-                    "title": "github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/docs/zh-cn/README.md",
-                    "mode": "error"
+                    "title": "obsidian-excalidraw-plugin/docs/zh-cn/README.md at master · zsviczian/obsidian-excalidraw-plugin · GitHub",
+                    "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/docs/zh-cn/README.md"
+                  "title": "obsidian-excalidraw-plugin/docs/zh-cn/README.md at master · zsviczian/obsidian-excalidraw-plugin · GitHub"
                 }
               }
             ]
