@@ -318,11 +318,11 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Mindmap%20Builder.md",
-                    "title": "obsidian-excalidraw-plugin/ea-scripts/Mindmap Builder.md at master · zsviczian/obsidian-excalidraw-plugin · GitHub",
-                    "mode": "webview"
+                    "title": "github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Mindmap Builder.md",
+                    "mode": "error"
                   },
                   "icon": "globe-2",
-                  "title": "obsidian-excalidraw-plugin/ea-scripts/Mindmap Builder.md at master · zsviczian/obsidian-excalidraw-plugin · GitHub"
+                  "title": "github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Mindmap Builder.md"
                 }
               }
             ]
