@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第6周20260202-0206/2026-02-04.md",
+                "file": "02-工作/工作周报/2026-02-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第6周20260202-0206/2026-02-04.md",
+                "file": "02-工作/工作周报/2026-02-04.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -315,14 +315,24 @@
                 "id": "e43ff0b1122b8d22",
                 "type": "leaf",
                 "state": {
-                  "type": "webviewer",
+                  "type": "markdown",
                   "state": {
-                    "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Mindmap%20Builder.md",
-                    "title": "github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Mindmap Builder.md",
-                    "mode": "error"
+                    "file": "02-工作/工作周报/2026-02-06.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
-                  "icon": "globe-2",
-                  "title": "github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Mindmap Builder.md"
+                  "icon": "lucide-file",
+                  "title": "2026-02-06"
                 }
               }
             ]
@@ -338,10 +348,12 @@
       }
     ]
   },
-  "active": "20887aa9256c392f",
+  "active": "e43ff0b1122b8d22",
   "lastOpenFiles": [
-    "02-工作/工作周报/第6周20260202-0206/2026-02-03.md",
+    "02-工作/工作周报/2026-02-06.md",
     "02-工作/工作周报/第6周20260202-0206/2026-02-04.md",
+    "02-工作/工作周报/2026-02-04.md",
+    "02-工作/工作周报/第6周20260202-0206/2026-02-03.md",
     "02-工作/工作周报/第6周20260202-0206/2026-02-02.md",
     "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
@@ -377,8 +389,6 @@
     "00-生活/26年规划/2026-Q1季度.md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-30.md",
     "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
-    "00-生活/26年规划/2026-第1月.md",
-    "template/季度模板.md",
     "template/未命名",
     "00-生活/26年规划",
     "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
