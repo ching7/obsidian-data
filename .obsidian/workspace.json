@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/2026-02-04.md",
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-04"
+              "title": "2026-02-09"
+            }
+          },
+          {
+            "id": "c11748d93027b0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/周会纪要模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "周会纪要模板"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +92,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 74.00497512437812,
+        "dimension": 74.50248756218906,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -99,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#计划总结",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +139,7 @@
       {
         "id": "3866b6936b632748",
         "type": "tabs",
-        "dimension": 25.99502487562189,
+        "dimension": 25.497512437810943,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -123,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/2026-02-04.md",
+                "file": "template/周会纪要模板.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-04 的大纲"
+              "title": "周会纪要模板 的大纲"
             }
           }
         ]
@@ -264,16 +288,6 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "7e3fab44e5bf89f3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw 侧边面板"
-            }
           }
         ]
       }
@@ -296,76 +310,41 @@
       "bases:新建数据库": false,
       "nutstore-sync:开始同步": false,
       "nutstore-sync:停止同步": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "nutstore-sync:Start sync": false,
+      "nutstore-sync:Stop sync": false
     }
   },
-  "floating": {
-    "id": "49afc0a10557e5d6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "70ad3d6aebe5dbae",
-        "type": "window",
-        "children": [
-          {
-            "id": "187596bb77d2f4e9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e43ff0b1122b8d22",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-工作/工作周报/2026-02-06.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-02-06"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e43ff0b1122b8d22",
+  "active": "c11748d93027b0de",
   "lastOpenFiles": [
-    "02-工作/工作周报/2026-02-06.md",
+    "template/周报模板.md",
+    "template/月度模板.md",
+    "template/日报模板.md",
+    "template/年报模板.md",
+    "template/季度模板.md",
+    "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
+    "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
+    "00-生活/26年规划/2026-02月.md",
+    "00-生活/26年规划/2026年度.md",
+    "00-生活/26年规划/2026-Q1季度.md",
+    "00-生活/26年规划/2026-01月.md",
+    "00-生活/26年读书/反常识管理.md",
     "02-工作/工作周报/第6周20260202-0206/2026-02-04.md",
-    "02-工作/工作周报/2026-02-04.md",
-    "02-工作/工作周报/第6周20260202-0206/2026-02-03.md",
-    "02-工作/工作周报/第6周20260202-0206/2026-02-02.md",
+    "02-工作/工作周报/第7周20260209-0214",
     "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
+    "02-工作/工作周报/第6周20260202-0206/2026-02-03.md",
+    "02-工作/工作周报/第6周20260202-0206/2026-02-06.md",
+    "01-技术/架构设计/工行智能体协同/企业级多智能体自主协同与动态执行机制研究课题.md",
+    "01-技术/架构设计/工行智能体协同",
+    "02-工作/工作周报/第6周20260202-0206/2026-02-02.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
     "01-技术/大模型提效/大模型演进.md",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习/ReinforcementLearning.py.md",
     "02-工作/工作周报/2026-02-03.md",
-    "00-生活/26年读书/Drawing 2026-02-03 11.06.37.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
     "00-生活/26年读书/未命名.canvas",
-    "00-生活/26年读书/反常识管理.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
@@ -373,28 +352,16 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "00-生活/26年读书/反常识管理.canvas",
-    "00-生活/26年规划/2026年度.md",
     "00-生活/26年读书/反常识管理-读书笔记.md",
-    "00-生活/未命名.md",
     "00-生活/26年读书",
-    "01-技术/架构设计/中行技术20260202述标技术答疑/中行20260201述标技术答疑.md",
-    "02-工作/工作周报/第6周20260202-0206.md",
     "02-工作/工作周报/第6周20260202-0206",
     "01-技术/架构设计/中行技术20260202述标技术答疑/智算队列调度.png",
     "01-技术/架构设计/中行技术20260202述标技术答疑",
     "01-技术/架构设计/Pasted image 20260202113113.png",
-    "02-工作/工作周报/第5周20260126-0130/2026-02-01.md",
-    "template/周会纪要模板.md",
-    "00-生活/26年规划/2026-01月.md",
-    "00-生活/26年规划/2026-Q1季度.md",
-    "02-工作/工作周报/第5周20260126-0130/2026-01-30.md",
-    "02-工作/工作周报/第5周20260126-0130/2026-01-29.md",
     "template/未命名",
     "00-生活/26年规划",
     "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习",
-    "Users/chenyanan/Downloads/gitproject/llm/llm-base",
-    "Users/chenyanan/Downloads/gitproject/llm",
     "02-工作/会议纪要/Pasted image 20260128152619.png",
     "01-技术/架构设计/工行智能体协同/工行联创项目方向.jpg",
     "01-技术/架构设计/工行联创项目方向.jpg",
