@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-第6周"
+              "title": "2026-02-09"
             }
           }
         ]
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-第6周 的大纲"
+              "title": "2026-02-09 的大纲"
             }
           }
         ]
@@ -120,7 +120,7 @@
       {
         "id": "c00e7783c9311bfa",
         "type": "tabs",
-        "dimension": 43.02203567681007,
+        "dimension": 37.2507869884575,
         "children": [
           {
             "id": "e453371f650727a1",
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-第6周 的关系图"
+              "title": "2026-02-09 的关系图"
             }
           },
           {
@@ -252,14 +252,26 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "16d895afadbf62cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md"
+              },
+              "icon": "lucide-info",
+              "title": "2026-02-09的笔记属性"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       },
       {
         "id": "9db2b9cfc8d60ec6",
         "type": "tabs",
-        "dimension": 56.97796432318992,
+        "dimension": 62.749213011542494,
         "children": [
           {
             "id": "877203fef168e104",
@@ -283,7 +295,8 @@
               "title": "番茄钟统计"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -310,11 +323,14 @@
       "tasknotes:Open mini calendar": true,
       "tasknotes:Open task list": true,
       "tasknotes:Open pomodoro stats": true,
-      "tasknotes:Open kanban board": true
+      "tasknotes:Open kanban board": true,
+      "nutstore-sync:Start sync": false,
+      "nutstore-sync:Stop sync": false
     }
   },
-  "active": "877203fef168e104",
+  "active": "544cea99971f6058",
   "lastOpenFiles": [
+    "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
     "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
@@ -323,7 +339,6 @@
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
     "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
-    "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
     "未命名.canvas",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习/ReinforcementLearning.py.md",
     "TaskNotes/Views/未命名 1.canvas",

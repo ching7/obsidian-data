@@ -477,24 +477,11 @@
     }
   ],
   "pomodoroState": {
-    "isRunning": true,
+    "isRunning": false,
     "timeRemaining": 1500,
-    "currentSession": {
-      "id": "1770605123258",
-      "taskPath": "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
-      "startTime": "2026-02-09T10:45:23.258+08:00",
-      "plannedDuration": 25,
-      "type": "work",
-      "completed": false,
-      "activePeriods": [
-        {
-          "startTime": "2026-02-09T10:45:23.258+08:00"
-        }
-      ]
-    }
+    "nextSessionType": "work"
   },
   "lastPomodoroDate": "2026-02-08",
-  "lastSelectedTaskPath": "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
   "pomodoroHistory": [
     {
       "id": "1770602185250",
@@ -528,6 +515,36 @@
           "endTime": "2026-02-09T10:26:30.690+08:00"
         }
       ]
+    },
+    {
+      "id": "1770605123258",
+      "startTime": "2026-02-09T10:45:23.258+08:00",
+      "endTime": "2026-02-09T11:10:23.226+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-02-09T10:45:23.258+08:00",
+          "endTime": "2026-02-09T11:10:23.226+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1770606624292",
+      "startTime": "2026-02-09T11:10:24.292+08:00",
+      "endTime": "2026-02-09T11:15:24.335+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-02-09T11:10:24.292+08:00",
+          "endTime": "2026-02-09T11:15:24.335+08:00"
+        }
+      ]
     }
-  ]
+  ],
+  "lastSelectedTaskPath": "02-工作/工作周报/第6周20260202-0206/2026-第6周.md"
 }
