@@ -43,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 57.91208791208792,
+        "dimension": 60.242290748898675,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -90,7 +90,7 @@
       {
         "id": "345ee36e60a99a04",
         "type": "tabs",
-        "dimension": 42.08791208791209,
+        "dimension": 39.75770925110132,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
+                "file": "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-09 的大纲"
+              "title": "Mindmap connector 的大纲"
             }
           }
         ]
@@ -120,7 +120,7 @@
       {
         "id": "c00e7783c9311bfa",
         "type": "tabs",
-        "dimension": 37.2507869884575,
+        "dimension": 43.743427970557306,
         "children": [
           {
             "id": "e453371f650727a1",
@@ -151,7 +151,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-02-09 的关系图"
+              "title": "关系图谱"
             }
           },
           {
@@ -259,10 +258,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md"
+                "file": "Excalidraw/Scripts/Downloaded/Mindmap connector.md"
               },
               "icon": "lucide-info",
-              "title": "2026-02-09的笔记属性"
+              "title": "Mindmap connector的笔记属性"
             }
           }
         ],
@@ -271,7 +270,7 @@
       {
         "id": "9db2b9cfc8d60ec6",
         "type": "tabs",
-        "dimension": 62.749213011542494,
+        "dimension": 56.256572029442694,
         "children": [
           {
             "id": "877203fef168e104",
@@ -327,18 +326,22 @@
       "nutstore-sync:Stop sync": false
     }
   },
-  "active": "266e8e99bcc4a814",
+  "active": "62c0c3829fd4cf97",
   "lastOpenFiles": [
-    "未命名.canvas",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
+    "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
     "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
+    "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
     "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
+    "未命名.canvas",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
-    "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
     "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习/ReinforcementLearning.py.md",
     "TaskNotes/Views/未命名 1.canvas",
     "TaskNotes/Views/未命名.canvas",
@@ -366,12 +369,8 @@
     "00-生活/26年规划/2026-01月.md",
     "00-生活/26年读书/反常识管理.md",
     "02-工作/工作周报/第6周20260202-0206/2026-02-04.md",
-    "02-工作/工作周报/第6周20260202-0206/2026-02-06.md",
-    "01-技术/架构设计/工行智能体协同/企业级多智能体自主协同与动态执行机制研究课题.md",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
-    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
     "00-生活/26年读书/未命名.canvas",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "00-生活/26年读书/反常识管理.canvas",
     "01-技术/架构设计/中行技术20260202述标技术答疑/智算队列调度.png",
