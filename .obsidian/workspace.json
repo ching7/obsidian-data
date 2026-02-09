@@ -266,7 +266,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       },
       {
         "id": "9db2b9cfc8d60ec6",
@@ -295,8 +295,7 @@
               "title": "番茄钟统计"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -328,7 +327,7 @@
       "nutstore-sync:Stop sync": false
     }
   },
-  "active": "544cea99971f6058",
+  "active": "877203fef168e104",
   "lastOpenFiles": [
     "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
     "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
