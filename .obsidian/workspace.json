@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Mindmap connector 的大纲"
+              "title": "2026-02-09 的大纲"
             }
           }
         ]
@@ -151,6 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "2026-02-09 的关系图"
             }
           },
           {
@@ -258,10 +259,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Mindmap connector.md"
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md"
               },
               "icon": "lucide-info",
-              "title": "Mindmap connector的笔记属性"
+              "title": "2026-02-09的笔记属性"
             }
           }
         ],
@@ -326,8 +327,9 @@
       "nutstore-sync:Stop sync": false
     }
   },
-  "active": "62c0c3829fd4cf97",
+  "active": "266e8e99bcc4a814",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
