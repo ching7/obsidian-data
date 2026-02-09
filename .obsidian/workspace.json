@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e2a781212e08025b",
+        "id": "149b342c8b68b722",
         "type": "tabs",
         "children": [
           {
-            "id": "b0ea3319fb93b26c",
+            "id": "266e8e99bcc4a814",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-第6周"
             }
           }
         ]
@@ -29,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 74.50248756218906,
+        "dimension": 57.91208791208792,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -74,9 +88,9 @@
         ]
       },
       {
-        "id": "3866b6936b632748",
+        "id": "345ee36e60a99a04",
         "type": "tabs",
-        "dimension": 25.497512437810943,
+        "dimension": 42.08791208791209,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -84,12 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-第6周 的大纲"
             }
           }
         ]
@@ -105,6 +120,7 @@
       {
         "id": "c00e7783c9311bfa",
         "type": "tabs",
+        "dimension": 43.02203567681007,
         "children": [
           {
             "id": "e453371f650727a1",
@@ -117,12 +133,25 @@
             }
           },
           {
+            "id": "c2e0aa8d849d1ce8",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/agenda-default.base",
+                "viewName": "Agenda"
+              },
+              "icon": "tasknotes-simple",
+              "title": "agenda-default"
+            }
+          },
+          {
             "id": "2afd4889b7e437ad",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "template/周会纪要模板.md",
+                "file": "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "周会纪要模板 的关系图"
+              "title": "2026-第6周 的关系图"
             }
           },
           {
@@ -188,16 +217,15 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-工作/工作周报/第5周20260126-0130/2026-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-01-27 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "7a335803753431e2",
+            "id": "f7effcd41f741031",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -212,7 +240,7 @@
             }
           },
           {
-            "id": "95cfd654ecacdc9b",
+            "id": "1ec70ffc0636e351",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -225,86 +253,122 @@
               "title": "添加笔记属性"
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9db2b9cfc8d60ec6",
+        "type": "tabs",
+        "dimension": 56.97796432318992,
+        "children": [
+          {
+            "id": "877203fef168e104",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "tasknotes-pomodoro-view",
+              "state": {},
+              "pinned": true,
+              "icon": "clock",
+              "title": "番茄钟"
+            }
+          },
+          {
+            "id": "544cea99971f6058",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-pomodoro-stats-view",
+              "state": {},
+              "icon": "bar-chart",
+              "title": "番茄钟统计"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 474.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
+      "tasknotes:Create new task": false,
+      "tasknotes:Open agenda": true,
+      "tasknotes:Open pomodoro": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true,
+      "tasknotes:Open advanced calendar": false,
+      "periodic-notes:Open today": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "canvas:新建白板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false,
-      "bases:新建数据库": false,
-      "nutstore-sync:Start sync": false,
-      "nutstore-sync:Stop sync": false,
-      "periodic-notes:Open today": false
+      "command-palette:打开命令面板": true,
+      "obsidian-git:Open Git source control": true,
+      "random-note:开始漫游笔记": true,
+      "workspaces:管理工作区布局": true,
+      "bases:新建数据库": true,
+      "tasknotes:Open mini calendar": true,
+      "tasknotes:Open task list": true,
+      "tasknotes:Open pomodoro stats": true,
+      "tasknotes:Open kanban board": true
     }
   },
-  "active": "b0ea3319fb93b26c",
+  "active": "877203fef168e104",
   "lastOpenFiles": [
-    "02-工作/工作周报/第6周20260202-0206/2026-02-03.md",
     "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
-    "template/周会纪要模板.md",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
+    "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
+    "未命名.canvas",
+    "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习/ReinforcementLearning.py.md",
+    "TaskNotes/Views/未命名 1.canvas",
+    "TaskNotes/Views/未命名.canvas",
+    "02-工作/团队管理/26年新组织架构分工/团队划分.md",
+    "02-工作/团队管理/26年新组织架构分工/团队划分.png",
+    "02-工作/团队管理/26年新组织架构分工",
+    "02-工作/团队管理",
+    "02-工作/工作周报/2026-02-09.md",
     "template/周报模板.md",
+    "02-工作/工作周报/第7周20260209-0214/确认团队后续组成和核心成员.md",
+    "Excalidraw/Drawing 2026-02-09 09.29.34.excalidraw.md",
+    "02-工作/工作周报/第7周20260209-0214/团队周例会.md",
+    "02-工作/工作周报/第7周20260209-0214/02-工作工作周报第7周20260209-0214团队周例会.md",
+    "TaskNotes/Views",
+    "TaskNotes",
+    "02-工作/工作周报/第6周20260202-0206/2026-02-03.md",
+    "template/周会纪要模板.md",
     "template/月度模板.md",
     "template/日报模板.md",
     "template/年报模板.md",
     "template/季度模板.md",
-    "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
     "00-生活/26年规划/2026-02月.md",
     "00-生活/26年规划/2026年度.md",
     "00-生活/26年规划/2026-Q1季度.md",
     "00-生活/26年规划/2026-01月.md",
     "00-生活/26年读书/反常识管理.md",
     "02-工作/工作周报/第6周20260202-0206/2026-02-04.md",
-    "02-工作/工作周报/第7周20260209-0214",
-    "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
     "02-工作/工作周报/第6周20260202-0206/2026-02-06.md",
     "01-技术/架构设计/工行智能体协同/企业级多智能体自主协同与动态执行机制研究课题.md",
-    "01-技术/架构设计/工行智能体协同",
-    "02-工作/工作周报/第6周20260202-0206/2026-02-02.md",
-    "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
-    "01-技术/大模型提效/大模型演进.md",
-    "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习/ReinforcementLearning.py.md",
-    "02-工作/工作周报/2026-02-03.md",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
     "00-生活/26年读书/未命名.canvas",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "00-生活/26年读书/反常识管理.canvas",
-    "00-生活/26年读书",
-    "02-工作/工作周报/第6周20260202-0206",
     "01-技术/架构设计/中行技术20260202述标技术答疑/智算队列调度.png",
-    "01-技术/架构设计/中行技术20260202述标技术答疑",
     "01-技术/架构设计/Pasted image 20260202113113.png",
-    "template/未命名",
-    "00-生活/26年规划",
     "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
-    "Users/chenyanan/Downloads/gitproject/llm/llm-base/07-强化学习",
     "02-工作/会议纪要/Pasted image 20260128152619.png",
     "01-技术/架构设计/工行智能体协同/工行联创项目方向.jpg",
     "01-技术/架构设计/工行联创项目方向.jpg",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿个险代理人赋能项目架构设计.canvas",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿物理部署架构图.canvas",
     "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/未命名.canvas",
-    "02-工作/工作周报/第4周20260119-0123/利川人寿工作量评估/利安人寿逻辑架构图.canvas",
-    "Excalidraw/未命名.canvas",
-    "Excalidraw/axton-obsidian-visual-skills/assets/mermaid-demo.png",
-    "Excalidraw/axton-obsidian-visual-skills/assets/excalidraw-demo.png"
+    "Excalidraw/axton-obsidian-visual-skills/assets/mermaid-demo.png"
   ]
 }

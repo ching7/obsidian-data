@@ -10,7 +10,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "showUnsupportedFiles": true,
-  "openBehavior": "daily",
+  "openBehavior": "",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
