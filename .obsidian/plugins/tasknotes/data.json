@@ -477,9 +477,21 @@
     }
   ],
   "pomodoroState": {
-    "isRunning": false,
+    "isRunning": true,
     "timeRemaining": 1500,
-    "nextSessionType": "work"
+    "currentSession": {
+      "id": "1770705491020",
+      "taskPath": "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
+      "startTime": "2026-02-10T14:38:11.020+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-02-10T14:38:11.020+08:00"
+        }
+      ]
+    }
   },
   "lastPomodoroDate": "2026-02-09",
   "pomodoroHistory": [
@@ -604,5 +616,5 @@
       ]
     }
   ],
-  "lastSelectedTaskPath": "01-技术/大模型提效/00-大模型能力拓展.md"
+  "lastSelectedTaskPath": "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md"
 }
