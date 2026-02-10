@@ -19,7 +19,7 @@
 		{"id":"app-stage6","type":"text","text":"### 📱 实际应用\n\n• GPT-3（基础版）\n• LLaMA 系列\n• Qwen 基础模型\n• DeepSeek 基础模型\n• BLOOM","x":1400,"y":1060,"width":300,"height":260,"color":"6"},
 		{"id":"stage8-node","type":"text","text":"## 第八阶段\n**Agent 时代**\n\n🤖 从模型到系统\n\n像「能干助理」\n✅ 会规划、调工具\n✅ 会反思、自我修正","x":700,"y":680,"width":300,"height":360,"color":"2"},
 		{"id":"app-stage8","type":"text","text":"### 📱 实际应用\n\n• Cursor / Claude Code（编程）\n• AutoGPT（自主任务）\n• LangChain Agent\n• OpenAI Assistants\n• 多模态 Agent","x":700,"y":1060,"width":300,"height":260,"color":"2"},
-		{"id":"special-multimodal","type":"text","text":"### 🎨 多模态演进\n\n**文本+图像+语音**\n\n• GPT-4V（视觉理解）\n• Gemini（原生多模态）\n• DeepSeek OCR2（文档理解）\n• CLIP（图文对齐）\n\n跨越第6-7阶段","x":350,"y":680,"width":320,"height":640,"color":"5"},
+		{"id":"special-multimodal","type":"text","text":"### 🎨 多模态演进\n\n**文本+图像+语音**\n\n• GPT-4V（视觉理解）\n• Gemini（原生多模态）\n• DeepSeek OCR2（文档理解）\n• CLIP（图文对齐）\n\n跨越第6-7阶段\n\n**视频**\n* 可灵（快手）\n* 即梦（抖音）\n* 通义万相（阿里）\n* Sora2（国外openai）","x":350,"y":680,"width":320,"height":640,"color":"5"},
 		{"id":"timeline-title","type":"text","text":"# 大模型演进时间线\n\n从「只会算」→「能看/听/记」→「会理解上下文」→「会通用推理」","x":0,"y":-360,"width":680,"height":120,"color":"6"}
 	],
 	"edges":[

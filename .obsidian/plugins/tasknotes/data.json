@@ -481,7 +481,7 @@
     "timeRemaining": 1500,
     "nextSessionType": "work"
   },
-  "lastPomodoroDate": "2026-02-08",
+  "lastPomodoroDate": "2026-02-09",
   "pomodoroHistory": [
     {
       "id": "1770602185250",
@@ -573,7 +573,36 @@
           "endTime": "2026-02-09T18:03:08.013+08:00"
         }
       ]
+    },
+    {
+      "id": "1770686967175",
+      "startTime": "2026-02-10T09:29:27.175+08:00",
+      "endTime": "2026-02-10T09:54:27.202+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "01-技术/大模型提效/00-大模型能力拓展.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-02-10T09:29:27.175+08:00",
+          "endTime": "2026-02-10T09:54:27.202+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1770688468298",
+      "startTime": "2026-02-10T09:54:28.298+08:00",
+      "endTime": "2026-02-10T09:59:28.298+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-02-10T09:54:28.298+08:00",
+          "endTime": "2026-02-10T09:59:28.298+08:00"
+        }
+      ]
     }
   ],
-  "lastSelectedTaskPath": "02-工作/工作周报/第6周20260202-0206/2026-第6周.md"
+  "lastSelectedTaskPath": "01-技术/大模型提效/00-大模型能力拓展.md"
 }
