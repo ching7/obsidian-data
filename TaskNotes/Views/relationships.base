@@ -60,6 +60,7 @@ views:
       - file.name
       - recurrence
       - complete_instances
+    columnOrder: '{"note.status":["open","in-progress","done","none"]}'
   - type: tasknotesTaskList
     name: Projects
     filters:

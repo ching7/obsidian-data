@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-09"
+              "title": "2026-02-10"
             }
           }
         ]
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-10.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-09 的大纲"
+              "title": "2026-02-10 的大纲"
             }
           }
         ]
@@ -120,7 +120,7 @@
       {
         "id": "c00e7783c9311bfa",
         "type": "tabs",
-        "dimension": 43.743427970557306,
+        "dimension": 58.05439330543933,
         "children": [
           {
             "id": "e453371f650727a1",
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-02-09 的关系图"
+              "title": "2026-02-10 的关系图"
             }
           },
           {
@@ -259,19 +259,19 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-09.md"
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-10.md"
               },
               "icon": "lucide-info",
-              "title": "2026-02-09的笔记属性"
+              "title": "2026-02-10的笔记属性"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "9db2b9cfc8d60ec6",
         "type": "tabs",
-        "dimension": 56.256572029442694,
+        "dimension": 41.945606694560674,
         "children": [
           {
             "id": "877203fef168e104",
@@ -299,7 +299,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 554.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,12 +329,13 @@
   },
   "active": "266e8e99bcc4a814",
   "lastOpenFiles": [
+    "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
+    "02-工作/工作周报/第7周20260209-0214/2026-02-10.md",
+    "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
-    "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
-    "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
     "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
     "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
     "未命名.canvas",
@@ -370,7 +371,6 @@
     "00-生活/26年规划/2026-Q1季度.md",
     "00-生活/26年规划/2026-01月.md",
     "00-生活/26年读书/反常识管理.md",
-    "02-工作/工作周报/第6周20260202-0206/2026-02-04.md",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
     "00-生活/26年读书/未命名.canvas",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
