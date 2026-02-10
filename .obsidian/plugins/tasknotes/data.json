@@ -477,21 +477,9 @@
     }
   ],
   "pomodoroState": {
-    "isRunning": true,
+    "isRunning": false,
     "timeRemaining": 1500,
-    "currentSession": {
-      "id": "1770705491020",
-      "taskPath": "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
-      "startTime": "2026-02-10T14:38:11.020+08:00",
-      "plannedDuration": 25,
-      "type": "work",
-      "completed": false,
-      "activePeriods": [
-        {
-          "startTime": "2026-02-10T14:38:11.020+08:00"
-        }
-      ]
-    }
+    "nextSessionType": "work"
   },
   "lastPomodoroDate": "2026-02-09",
   "pomodoroHistory": [
@@ -612,6 +600,35 @@
         {
           "startTime": "2026-02-10T09:54:28.298+08:00",
           "endTime": "2026-02-10T09:59:28.298+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1770705491020",
+      "startTime": "2026-02-10T14:38:11.020+08:00",
+      "endTime": "2026-02-10T15:03:11.102+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-02-10T14:38:11.020+08:00",
+          "endTime": "2026-02-10T15:03:11.102+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1770706992194",
+      "startTime": "2026-02-10T15:03:12.194+08:00",
+      "endTime": "2026-02-10T15:08:12.209+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-02-10T15:03:12.194+08:00",
+          "endTime": "2026-02-10T15:08:12.209+08:00"
         }
       ]
     }

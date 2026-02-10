@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "国开行架构待办与梳理"
+              "title": "00-大模型能力拓展"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "国开行架构待办与梳理 的大纲"
+              "title": "00-大模型能力拓展 的大纲"
             }
           }
         ]
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,7 +225,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "国开行架构待办与梳理 的关系图"
+              "title": "00-大模型能力拓展 的关系图"
             }
           },
           {
@@ -305,13 +305,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md"
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md"
               },
               "icon": "lucide-info",
-              "title": "国开行架构待办与梳理的笔记属性"
+              "title": "00-大模型能力拓展的笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -345,20 +346,20 @@
   },
   "active": "354c8a120d101bdb",
   "lastOpenFiles": [
-    "02-工作/工作周报/第7周20260209-0214/未命名.md",
-    "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
+    "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
     "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
+    "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
+    "02-工作/工作周报/第7周20260209-0214/2026-02-10.md",
+    "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
+    "02-工作/工作周报/第7周20260209-0214/未命名.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型工具/openclaw",
     "01-技术/大模型工具",
-    "02-工作/工作周报/第7周20260209-0214/2026-02-10.md",
     "01-技术/大模型提示器/Cursor编程提示器.md",
     "01-技术/大模型提示器",
     "01-技术/大模型提效/大模型演进.md",
-    "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
     "01-技术/大模型提效/大模型演进-Timeline.md",
-    "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
