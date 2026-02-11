@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "febf700ba9fa8f2a",
+        "id": "b03f2fd5b4ad9eef",
         "type": "tabs",
         "children": [
           {
-            "id": "693bb7daecdabbfe",
+            "id": "1f84caf44a55fdb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00-大模型能力拓展"
-            }
-          },
-          {
-            "id": "354c8a120d101bdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "00-大模型能力拓展"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +29,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 72.85714285714285,
+        "dimension": 72.85714285714286,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -115,7 +76,7 @@
       {
         "id": "345ee36e60a99a04",
         "type": "tabs",
-        "dimension": 27.142857142857142,
+        "dimension": 27.142857142857146,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -123,13 +84,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00-大模型能力拓展 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -154,8 +114,8 @@
               "type": "tasknotes-pomodoro-view",
               "state": {},
               "pinned": true,
-              "icon": "clock",
-              "title": "番茄钟"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-view"
             }
           },
           {
@@ -164,8 +124,8 @@
             "state": {
               "type": "tasknotes-pomodoro-stats-view",
               "state": {},
-              "icon": "bar-chart",
-              "title": "番茄钟统计"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-stats-view"
             }
           },
           {
@@ -197,7 +157,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "00-大模型能力拓展 的关系图"
+              "title": "关系图谱"
             }
           },
           {
@@ -304,11 +263,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "00-大模型能力拓展的笔记属性"
+              "title": "笔记属性"
             }
           }
         ],
@@ -328,7 +285,6 @@
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": true,
       "tasknotes:Open advanced calendar": false,
-      "periodic-notes:Open today": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": true,
@@ -341,18 +297,19 @@
       "tasknotes:Open pomodoro stats": true,
       "tasknotes:Open kanban board": true,
       "nutstore-sync:Start sync": false,
-      "nutstore-sync:Stop sync": false
+      "nutstore-sync:Stop sync": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "354c8a120d101bdb",
+  "active": "1f84caf44a55fdb1",
   "lastOpenFiles": [
+    "01-技术/大模型提效/00-大模型能力拓展.md",
     "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
     "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
     "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
     "02-工作/工作周报/第7周20260209-0214/2026-02-10.md",
     "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
     "02-工作/工作周报/第7周20260209-0214/未命名.md",
-    "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型工具/openclaw",
     "01-技术/大模型工具",
     "01-技术/大模型提示器/Cursor编程提示器.md",
