@@ -11,24 +11,17 @@
             "id": "1f84caf44a55fdb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01-技术/大模型工具/openclaw/openclaw-research-report.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
+                "viewState": {
+                  "x": 766.5312847682119,
+                  "y": 179.0779337748344,
+                  "zoom": -0.8990987844248559
                 }
               },
-              "icon": "lucide-file",
-              "title": "openclaw-research-report"
+              "icon": "lucide-layout-dashboard",
+              "title": "openclaw-architecture"
             }
           }
         ]
@@ -98,13 +91,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/大模型工具/openclaw/openclaw-research-report.md",
+                "file": "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "openclaw-research-report 的大纲"
+              "title": "openclaw-architecture 的大纲"
             }
           }
         ]
@@ -319,8 +312,8 @@
   },
   "active": "1f84caf44a55fdb1",
   "lastOpenFiles": [
-    "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
     "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
+    "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
     "01-技术/大模型工具/openclaw/openclaw-research-report.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
     "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
