@@ -11,17 +11,24 @@
             "id": "1f84caf44a55fdb1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
-                "viewState": {
-                  "x": 766.5312847682119,
-                  "y": 179.0779337748344,
-                  "zoom": -0.8990987844248559
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "openclaw-architecture"
+              "icon": "lucide-file",
+              "title": "00-大模型能力拓展"
             }
           }
         ]
@@ -36,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 44.93392070484582,
+        "dimension": 43.72246696035242,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -83,7 +90,7 @@
       {
         "id": "345ee36e60a99a04",
         "type": "tabs",
-        "dimension": 55.06607929515418,
+        "dimension": 56.27753303964758,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -91,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "openclaw-architecture 的大纲"
+              "title": "00-大模型能力拓展 的大纲"
             }
           }
         ]
@@ -312,8 +319,8 @@
   },
   "active": "1f84caf44a55fdb1",
   "lastOpenFiles": [
-    "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
     "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
+    "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
     "01-技术/大模型工具/openclaw/openclaw-research-report.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
     "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
