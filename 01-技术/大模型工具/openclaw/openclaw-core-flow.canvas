@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"b2c3d4e5","type":"group","x":600,"y":-320,"width":1180,"height":360,"color":"4","label":"消息处理（模型理解）"},
+		{"id":"c3d4e5f6","type":"group","x":600,"y":140,"width":1180,"height":260,"color":"6","label":"消息回复（留痕可控）"},
+		{"id":"a1b2c3d4","type":"group","x":600,"y":-600,"width":1180,"height":200,"color":"5","label":"消息入口（认证授权）"},
+		{"id":"d4e5f607","type":"text","text":"用户输入指令\n（企业微信\\QQ 等）","x":640,"y":-560,"width":260,"height":120,"color":"5"},
+		{"id":"e5f60718","type":"text","text":"Gateway（统一入口）","x":1060,"y":-560,"width":240,"height":120,"color":"2"},
+		{"id":"f6071829","type":"text","text":"解析意图 & 会话定位","x":1450,"y":-560,"width":240,"height":120,"color":"5"},
+		{"id":"18293a4b","type":"text","text":"Tool技能调用（Function Calls）\n- Tools 注册表提供任何可调用的能力\n- Tools 可配置 allow / deny 规则\n- Agent 发出 JSON schema 调用到具体功能","x":770,"y":-280,"width":370,"height":260,"color":"4"},
+		{"id":"0718293a","type":"text","text":"Plan（规划）\n 1. 观察用户意图 \n 2. 判断需要调用哪些工具/技能\n 3. 分解成多个执行步骤","x":1380,"y":-280,"width":340,"height":260,"color":"5"},
+		{"id":"4b5c6d7e","type":"text","text":"记录与审计\n* 谁问了什么 / 做了什么\n* 安全审计模块（目前缺失）","x":770,"y":180,"width":340,"height":160,"color":"6"},
+		{"id":"3a4b5c6d","type":"text","text":"执行结果反馈\n* Agent 结果封装\n* 返回给 Gateway","x":1380,"y":180,"width":340,"height":160,"color":"4"}
+	],
+	"edges":[
+		{"id":"aa11bb22","fromNode":"d4e5f607","fromSide":"right","toNode":"e5f60718","toSide":"left"},
+		{"id":"67c0eb0dba9b7610","fromNode":"f6071829","fromSide":"bottom","toNode":"0718293a","toSide":"top"},
+		{"id":"a55bdc0b46b26155","fromNode":"e5f60718","fromSide":"right","toNode":"f6071829","toSide":"left"},
+		{"id":"12c17bbb9a10c6cc","fromNode":"3a4b5c6d","fromSide":"left","toNode":"4b5c6d7e","toSide":"right"},
+		{"id":"9d19d56880c9e7b2","fromNode":"0718293a","fromSide":"left","toNode":"18293a4b","toSide":"right"},
+		{"id":"16fcb864d58783b4","fromNode":"18293a4b","fromSide":"bottom","toNode":"3a4b5c6d","toSide":"top"},
+		{"id":"5c606d27e7ddc239","fromNode":"4b5c6d7e","fromSide":"left","toNode":"d4e5f607","toSide":"left","label":"消息回复"}
+	]
+}
