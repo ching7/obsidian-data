@@ -11,10 +11,24 @@
             "id": "9673c68b60245c9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-02-12"
             }
           }
         ]
@@ -29,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 43.72246696035242,
+        "dimension": 65.16483516483517,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -76,7 +90,7 @@
       {
         "id": "345ee36e60a99a04",
         "type": "tabs",
-        "dimension": 56.27753303964758,
+        "dimension": 34.83516483516483,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -84,12 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-12.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-02-12 的大纲"
             }
           }
         ]
@@ -273,8 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5,
-    "collapsed": true
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,9 +318,11 @@
   },
   "active": "9673c68b60245c9e",
   "lastOpenFiles": [
-    "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
     "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
+    "01-技术/大模型提示器/Cursor编程提示器.md",
+    "02-工作/工作周报/第7周20260209-0214/2026-02-12.md",
+    "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型工具/openclaw/openclaw-research-report.md",
     "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
     "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
@@ -316,7 +332,6 @@
     "02-工作/工作周报/第7周20260209-0214/未命名.md",
     "01-技术/大模型工具/openclaw",
     "01-技术/大模型工具",
-    "01-技术/大模型提示器/Cursor编程提示器.md",
     "01-技术/大模型提示器",
     "01-技术/大模型提效/大模型演进.md",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
@@ -347,7 +362,6 @@
     "02-工作/工作周报/第6周20260202-0206/2026-02-03.md",
     "template/周会纪要模板.md",
     "template/月度模板.md",
-    "template/日报模板.md",
     "00-生活/26年读书/未命名.canvas",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "00-生活/26年读书/反常识管理.canvas",
