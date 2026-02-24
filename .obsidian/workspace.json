@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频脚本.md",
+                "file": "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频文案脚本.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02-视频脚本"
+              "title": "02-视频文案脚本"
             }
           }
         ]
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#计划总结",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频脚本.md",
+                "file": "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频文案脚本.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-视频脚本 的大纲"
+              "title": "02-视频文案脚本 的大纲"
             }
           }
         ]
@@ -265,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 530.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,9 +296,9 @@
   },
   "active": "5f5a54b60ac7127f",
   "lastOpenFiles": [
-    "03-自媒体/00-TOP TIPS.md",
-    "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频脚本.md",
     "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/01-代办.md",
+    "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频文案脚本.md",
+    "03-自媒体/00-TOP TIPS.md",
     "03-自媒体/素材与参考内容/封面.md",
     "03-自媒体/素材与参考内容",
     "03-自媒体/主题",
