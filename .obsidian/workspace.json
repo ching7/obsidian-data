@@ -265,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 498.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,10 +293,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e453371f650727a1",
+  "active": "5f5a54b60ac7127f",
   "lastOpenFiles": [
-    "TaskNotes/Views/agenda-default.base",
+    "00-生活/26年规划/2026-01月.md",
+    "00-生活/26年规划/2026-02月.md",
+    "00-生活/26年规划/2026-Q1季度.md",
+    "00-生活/26年规划/2026年度.md",
     "02-工作/工作周报/第9周20260224-0228/2026-02-24.md",
+    "TaskNotes/Views/agenda-default.base",
     "02-工作/工作周报/第7周20260209-0214/2026-第7周.md",
     "02-工作/工作周报/2026-第9周.md",
     "02-工作/工作周报/第9周20260224-0228",
@@ -336,9 +340,6 @@
     "02-工作/工作周报/2026-02-09.md",
     "template/周报模板.md",
     "02-工作/工作周报/第7周20260209-0214/确认团队后续组成和核心成员.md",
-    "Excalidraw/Drawing 2026-02-09 09.29.34.excalidraw.md",
-    "02-工作/工作周报/第7周20260209-0214/团队周例会.md",
-    "02-工作/工作周报/第7周20260209-0214/02-工作工作周报第7周20260209-0214团队周例会.md",
     "00-生活/26年读书/未命名.canvas",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "00-生活/26年读书/反常识管理.canvas",
