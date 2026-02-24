@@ -11,10 +11,24 @@
             "id": "5f5a54b60ac7127f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-工作/工作周报/第9周20260224-0228/2026-02-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-02-24"
             }
           }
         ]
@@ -84,12 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02-工作/工作周报/第9周20260224-0228/2026-02-24.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-02-24 的大纲"
             }
           }
         ]
@@ -106,28 +121,6 @@
         "id": "c00e7783c9311bfa",
         "type": "tabs",
         "children": [
-          {
-            "id": "877203fef168e104",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "tasknotes-pomodoro-view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "tasknotes-pomodoro-view"
-            }
-          },
-          {
-            "id": "544cea99971f6058",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-pomodoro-stats-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-pomodoro-stats-view"
-            }
-          },
           {
             "id": "e453371f650727a1",
             "type": "leaf",
@@ -268,12 +261,11 @@
               "title": "笔记属性"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,9 +293,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5f5a54b60ac7127f",
+  "active": "e453371f650727a1",
   "lastOpenFiles": [
+    "TaskNotes/Views/agenda-default.base",
+    "02-工作/工作周报/第9周20260224-0228/2026-02-24.md",
     "02-工作/工作周报/第7周20260209-0214/2026-第7周.md",
+    "02-工作/工作周报/2026-第9周.md",
+    "02-工作/工作周报/第9周20260224-0228",
     "02-工作/工作周报/第7周20260209-0214/2026-02-12.md",
     "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
     "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
@@ -327,7 +323,6 @@
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
     "未命名.canvas",
-    "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/relationships.base",
@@ -338,16 +333,12 @@
     "TaskNotes/Views/未命名.canvas",
     "02-工作/团队管理/26年新组织架构分工/团队划分.md",
     "02-工作/团队管理/26年新组织架构分工/团队划分.png",
-    "02-工作/团队管理/26年新组织架构分工",
     "02-工作/工作周报/2026-02-09.md",
     "template/周报模板.md",
     "02-工作/工作周报/第7周20260209-0214/确认团队后续组成和核心成员.md",
     "Excalidraw/Drawing 2026-02-09 09.29.34.excalidraw.md",
     "02-工作/工作周报/第7周20260209-0214/团队周例会.md",
     "02-工作/工作周报/第7周20260209-0214/02-工作工作周报第7周20260209-0214团队周例会.md",
-    "02-工作/工作周报/第6周20260202-0206/2026-02-03.md",
-    "template/周会纪要模板.md",
-    "template/月度模板.md",
     "00-生活/26年读书/未命名.canvas",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "00-生活/26年读书/反常识管理.canvas",
