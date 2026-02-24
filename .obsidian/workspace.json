@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ad0e58af546c53f",
+        "id": "453cd63e97f376c8",
         "type": "tabs",
         "children": [
           {
-            "id": "9673c68b60245c9e",
+            "id": "5f5a54b60ac7127f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-02-12"
+              "title": "新标签页"
             }
           }
         ]
@@ -98,13 +84,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-工作/工作周报/第7周20260209-0214/2026-02-12.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-12 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -288,7 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,12 +301,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9673c68b60245c9e",
+  "active": "5f5a54b60ac7127f",
   "lastOpenFiles": [
+    "02-工作/工作周报/第7周20260209-0214/2026-第7周.md",
+    "02-工作/工作周报/第7周20260209-0214/2026-02-12.md",
     "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
     "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
     "01-技术/大模型提示器/Cursor编程提示器.md",
-    "02-工作/工作周报/第7周20260209-0214/2026-02-12.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型工具/openclaw/openclaw-research-report.md",
     "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
