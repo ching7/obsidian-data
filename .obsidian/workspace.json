@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频脚本.md",
-                "mode": "source",
+                "file": "02-工作/工作周报/第9周20260224-0228/2026-02-24.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02-视频脚本"
+              "title": "2026-02-24"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 55.714285714285715,
+        "dimension": 64.83516483516483,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -90,7 +90,7 @@
       {
         "id": "345ee36e60a99a04",
         "type": "tabs",
-        "dimension": 44.285714285714285,
+        "dimension": 35.16483516483517,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频脚本.md",
+                "file": "02-工作/工作周报/第9周20260224-0228/2026-02-24.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-视频脚本 的大纲"
+              "title": "2026-02-24 的大纲"
             }
           }
         ]
@@ -265,8 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 530.5,
-    "collapsed": true
+    "width": 530.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,10 +295,11 @@
   },
   "active": "5f5a54b60ac7127f",
   "lastOpenFiles": [
-    "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/03-文案.md",
-    "03-自媒体/00-TOP TIPS.md",
     "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/01-代办.md",
+    "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/03-文案.md",
     "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频脚本.md",
+    "02-工作/工作周报/2026-02-25.md",
+    "03-自媒体/00-TOP TIPS.md",
     "03-自媒体/素材与参考内容/内容参考.md",
     "03-自媒体/未命名",
     "03-自媒体/素材与参考内容/().md",
@@ -334,7 +334,6 @@
     "01-技术/大模型工具/openclaw",
     "01-技术/大模型工具",
     "01-技术/大模型提示器",
-    "01-技术/大模型提效/大模型演进.md",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
