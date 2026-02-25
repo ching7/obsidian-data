@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频文案脚本.md",
+                "file": "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频脚本.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02-视频文案脚本"
+              "title": "02-视频脚本"
             }
           }
         ]
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#10分钟模版",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频文案脚本.md",
+                "file": "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频脚本.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-视频文案脚本 的大纲"
+              "title": "02-视频脚本 的大纲"
             }
           }
         ]
@@ -296,16 +296,20 @@
   },
   "active": "5f5a54b60ac7127f",
   "lastOpenFiles": [
-    "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/01-代办.md",
-    "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频文案脚本.md",
+    "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/03-文案.md",
     "03-自媒体/00-TOP TIPS.md",
+    "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/01-代办.md",
+    "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频脚本.md",
+    "03-自媒体/素材与参考内容/内容参考.md",
+    "03-自媒体/未命名",
+    "03-自媒体/素材与参考内容/().md",
     "03-自媒体/素材与参考内容/封面.md",
+    "00-生活/26年规划/2026年度.md",
     "03-自媒体/素材与参考内容",
     "03-自媒体/主题",
     "02-工作/工作周报/第9周20260224-0228/2026-02-24.md",
     "02-工作/团队管理/26年新组织架构分工/团队划分.md",
     "02-工作/团队管理/26年新组织架构分工/团队划分.png",
-    "00-生活/26年规划/2026年度.md",
     "03-自媒体/主题/01-2026还能从0建立自媒体账号吗",
     "03-自媒体",
     "00-生活/26年规划/2026-01月.md",
@@ -332,13 +336,9 @@
     "01-技术/大模型提示器",
     "01-技术/大模型提效/大模型演进.md",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
-    "01-技术/大模型提效/大模型演进-Timeline.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
     "未命名.canvas",
-    "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/未命名 1.canvas",
     "TaskNotes/Views/未命名.canvas",
     "00-生活/26年读书/未命名.canvas",
