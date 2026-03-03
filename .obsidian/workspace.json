@@ -11,27 +11,33 @@
             "id": "5f5a54b60ac7127f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "03-自媒体/00-TOP TIPS.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
+                "viewState": {
+                  "x": 1206.961660352544,
+                  "y": -114.62635467375941,
+                  "zoom": -0.38352195256812743
                 }
               },
-              "icon": "lucide-file",
-              "title": "00-TOP TIPS"
+              "icon": "lucide-layout-dashboard",
+              "title": "openclaw-core-flow"
+            }
+          },
+          {
+            "id": "8787538e4cae240d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-自媒体/00-TOP TIPS.md",
+                "file": "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00-TOP TIPS 的大纲"
+              "title": "openclaw-core-flow 的大纲"
             }
           }
         ]
@@ -293,14 +299,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5f5a54b60ac7127f",
+  "active": "8787538e4cae240d",
   "lastOpenFiles": [
+    "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
+    "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
+    "01-技术/架构设计/工行智能体协同/企业级多智能体自主协同与动态执行机制研究课题.md",
+    "01-技术/大模型提效/大模型演进-Timeline.canvas",
+    "01-技术/大模型提效/00-大模型能力拓展.md",
+    "00-生活/26年读书/反常识管理.md",
+    "03-自媒体/00-TOP TIPS.md",
     "02-工作/工作周报/第9周20260224-0228/2026-02-24.md",
     "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/01-代办.md",
     "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/03-文案.md",
     "03-自媒体/主题/01-2026还能从0建立自媒体账号吗/02-视频脚本.md",
     "02-工作/工作周报/2026-02-25.md",
-    "03-自媒体/00-TOP TIPS.md",
     "03-自媒体/素材与参考内容/内容参考.md",
     "03-自媒体/未命名",
     "03-自媒体/素材与参考内容/().md",
@@ -320,21 +332,15 @@
     "02-工作/工作周报/2026-第9周.md",
     "02-工作/工作周报/第9周20260224-0228",
     "02-工作/工作周报/第7周20260209-0214/2026-02-12.md",
-    "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
     "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
     "01-技术/大模型提示器/Cursor编程提示器.md",
-    "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型工具/openclaw/openclaw-research-report.md",
     "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
     "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
     "02-工作/工作周报/第7周20260209-0214/2026-02-09.md",
-    "02-工作/工作周报/第7周20260209-0214/2026-02-10.md",
-    "02-工作/工作周报/第7周20260209-0214/国开行架构待办与梳理.md",
-    "02-工作/工作周报/第7周20260209-0214/未命名.md",
     "01-技术/大模型工具/openclaw",
     "01-技术/大模型工具",
     "01-技术/大模型提示器",
-    "01-技术/大模型提效/大模型演进-Timeline.canvas",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
     "未命名.canvas",
@@ -345,7 +351,6 @@
     "00-生活/26年读书/反常识管理.canvas",
     "01-技术/架构设计/中行技术20260202述标技术答疑/智算队列调度.png",
     "01-技术/架构设计/Pasted image 20260202113113.png",
-    "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
     "02-工作/会议纪要/Pasted image 20260128152619.png",
     "01-技术/架构设计/工行智能体协同/工行联创项目方向.jpg",
     "01-技术/架构设计/工行联创项目方向.jpg",
