@@ -28,12 +28,24 @@
             "id": "8787538e4cae240d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
+              "icon": "lucide-file",
+              "title": "00-大模型能力拓展"
             }
           }
         ],
@@ -49,7 +61,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 64.83516483516483,
+        "dimension": 56.65445665445665,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -96,7 +108,7 @@
       {
         "id": "345ee36e60a99a04",
         "type": "tabs",
-        "dimension": 35.16483516483517,
+        "dimension": 43.34554334554335,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -104,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "openclaw-core-flow 的大纲"
+              "title": "00-大模型能力拓展 的大纲"
             }
           }
         ]
@@ -295,17 +307,18 @@
       "tasknotes:Open pomodoro stats": true,
       "tasknotes:Open kanban board": true,
       "nutstore-sync:Start sync": false,
-      "nutstore-sync:Stop sync": false,
-      "periodic-notes:Open today": false
+      "nutstore-sync:Stop sync": false
     }
   },
   "active": "8787538e4cae240d",
   "lastOpenFiles": [
+    "01-技术/大模型提效/大模型演进.md",
+    "01-技术/大模型提示器/Cursor编程提示器.md",
+    "01-技术/大模型提效/大模型演进-Timeline.canvas",
+    "01-技术/架构设计/工行智能体协同/企业级多智能体自主协同与动态执行机制研究课题.md",
+    "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
     "01-技术/架构设计/利川人寿工作量评估/利安人寿整体架构设计.canvas",
-    "01-技术/架构设计/工行智能体协同/企业级多智能体自主协同与动态执行机制研究课题.md",
-    "01-技术/大模型提效/大模型演进-Timeline.canvas",
-    "01-技术/大模型提效/00-大模型能力拓展.md",
     "00-生活/26年读书/反常识管理.md",
     "03-自媒体/00-TOP TIPS.md",
     "02-工作/工作周报/第9周20260224-0228/2026-02-24.md",
@@ -333,7 +346,6 @@
     "02-工作/工作周报/第9周20260224-0228",
     "02-工作/工作周报/第7周20260209-0214/2026-02-12.md",
     "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
-    "01-技术/大模型提示器/Cursor编程提示器.md",
     "01-技术/大模型工具/openclaw/openclaw-research-report.md",
     "02-工作/工作周报/第6周20260202-0206/2026-第6周.md",
     "02-工作/工作周报/第6周20260202-0206/国开行代办.md",
