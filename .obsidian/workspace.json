@@ -11,17 +11,24 @@
             "id": "5f5a54b60ac7127f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
-                "viewState": {
-                  "x": 936.1321682263858,
-                  "y": -112.42560973814383,
-                  "zoom": -0.38352195256812743
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "openclaw-core-flow"
+              "icon": "lucide-file",
+              "title": "00-大模型能力拓展"
             }
           }
         ]
@@ -36,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 75.96982758620689,
+        "dimension": 67.67241379310344,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -83,7 +90,7 @@
       {
         "id": "345ee36e60a99a04",
         "type": "tabs",
-        "dimension": 24.030172413793103,
+        "dimension": 32.327586206896555,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -91,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
+                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "openclaw-core-flow 的大纲"
+              "title": "00-大模型能力拓展 的大纲"
             }
           }
         ]
@@ -288,10 +295,12 @@
   },
   "active": "5f5a54b60ac7127f",
   "lastOpenFiles": [
-    "TaskNotes/Views/agenda-default.base",
-    "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
-    "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型提效/大模型演进.md",
+    "02-工作/团队管理/26年新组织架构分工/团队划分.md",
+    "02-工作/团队管理/26年新组织架构分工/团队划分.png",
+    "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
+    "TaskNotes/Views/agenda-default.base",
+    "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型提示器/Cursor编程提示器.md",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
     "01-技术/架构设计/工行智能体协同/企业级多智能体自主协同与动态执行机制研究课题.md",
@@ -311,8 +320,6 @@
     "00-生活/26年规划/2026年度.md",
     "03-自媒体/素材与参考内容",
     "03-自媒体/主题",
-    "02-工作/团队管理/26年新组织架构分工/团队划分.md",
-    "02-工作/团队管理/26年新组织架构分工/团队划分.png",
     "03-自媒体/主题/01-2026还能从0建立自媒体账号吗",
     "03-自媒体",
     "00-生活/26年规划/2026-01月.md",
