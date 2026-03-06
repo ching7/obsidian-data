@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "01-技术/大模型提示器/Cursor编程提示器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00-大模型能力拓展"
+              "title": "Cursor编程提示器"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 67.67241379310344,
+        "dimension": 70.69672131147541,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -90,7 +90,7 @@
       {
         "id": "345ee36e60a99a04",
         "type": "tabs",
-        "dimension": 32.327586206896555,
+        "dimension": 29.303278688524593,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/大模型提效/00-大模型能力拓展.md",
+                "file": "01-技术/大模型提示器/Cursor编程提示器.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00-大模型能力拓展 的大纲"
+              "title": "Cursor编程提示器 的大纲"
             }
           }
         ]
@@ -295,12 +295,12 @@
   },
   "active": "5f5a54b60ac7127f",
   "lastOpenFiles": [
+    "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型提效/大模型演进.md",
     "02-工作/团队管理/26年新组织架构分工/团队划分.md",
     "02-工作/团队管理/26年新组织架构分工/团队划分.png",
     "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
     "TaskNotes/Views/agenda-default.base",
-    "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型提示器/Cursor编程提示器.md",
     "01-技术/大模型提效/大模型演进-Timeline.canvas",
     "01-技术/架构设计/工行智能体协同/企业级多智能体自主协同与动态执行机制研究课题.md",
