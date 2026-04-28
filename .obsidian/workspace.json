@@ -11,10 +11,17 @@
             "id": "9d51a1dd22856f8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "canvas",
+              "state": {
+                "file": "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
+                "viewState": {
+                  "x": 1190,
+                  "y": -100,
+                  "zoom": -0.3137541634416621
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "openclaw-core-flow"
             }
           }
         ]
@@ -29,7 +36,7 @@
       {
         "id": "e860deb3dd5c964f",
         "type": "tabs",
-        "dimension": 36.2089914945322,
+        "dimension": 62.71739130434783,
         "children": [
           {
             "id": "62c0c3829fd4cf97",
@@ -76,7 +83,7 @@
       {
         "id": "345ee36e60a99a04",
         "type": "tabs",
-        "dimension": 63.79100850546781,
+        "dimension": 37.28260869565217,
         "children": [
           {
             "id": "84d78aeb2af95562",
@@ -84,12 +91,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "openclaw-core-flow 的大纲"
             }
           }
         ]
