@@ -11,17 +11,24 @@
             "id": "9d51a1dd22856f8b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
-                "viewState": {
-                  "x": 1190,
-                  "y": -100,
-                  "zoom": -0.3137541634416621
+                "file": "01-技术/大模型提示器/Cursor编程提示器.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "openclaw-core-flow"
+              "icon": "lucide-file",
+              "title": "Cursor编程提示器"
             }
           }
         ]
@@ -91,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
+                "file": "01-技术/大模型提示器/Cursor编程提示器.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "openclaw-core-flow 的大纲"
+              "title": "Cursor编程提示器 的大纲"
             }
           }
         ]
@@ -289,6 +296,7 @@
   },
   "active": "9d51a1dd22856f8b",
   "lastOpenFiles": [
+    "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
     "00-生活/26年读书/反常识管理.md",
     "01-技术/大模型提效/小星畅聊.png",
     "01-技术/大模型提效/旅行管家.jpg",
@@ -298,7 +306,6 @@
     "01-技术/大模型工具/openclaw/openclaw-research-report.md",
     "01-技术/大模型提效/00-大模型能力拓展.md",
     "01-技术/大模型提效/ppt-2.png",
-    "01-技术/大模型工具/openclaw/openclaw-core-flow.canvas",
     "01-技术/大模型工具/openclaw/openclaw-architecture.canvas",
     "01-技术/大模型提示器/Cursor编程提示器.md",
     "01-技术/大模型提效/杭州银行风控.png",
